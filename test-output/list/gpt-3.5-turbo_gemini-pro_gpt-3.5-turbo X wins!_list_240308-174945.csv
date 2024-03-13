@@ -1,0 +1,2 @@
+GameTime,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Player1OutOfBounds, Player2OutOfBounds 
+240308-174945,list,gpt-3.5-turbo,gemini-pro,gpt-3.5-turbo X wins!,00:05,5,0,0,0,0,0,0

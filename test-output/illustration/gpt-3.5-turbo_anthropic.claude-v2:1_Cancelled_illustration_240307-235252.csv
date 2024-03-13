@@ -1,0 +1,2 @@
+GameTime,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Player1OutOfBounds, Player2OutOfBounds 
+240307-235252,illustration,gpt-3.5-turbo,anthropic.claude-v2:1,Cancelled,00:49,21,0,5,0,0,0,13

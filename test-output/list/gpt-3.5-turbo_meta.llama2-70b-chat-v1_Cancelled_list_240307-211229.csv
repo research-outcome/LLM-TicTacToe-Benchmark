@@ -1,0 +1,2 @@
+GameTime,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Player1OutOfBounds, Player2OutOfBounds 
+240307-211229,list,gpt-3.5-turbo,meta.llama2-70b-chat-v1,Cancelled,00:18,21,1,13,0,0,0,0

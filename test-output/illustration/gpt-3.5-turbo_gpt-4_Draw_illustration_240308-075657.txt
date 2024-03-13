@@ -1,0 +1,51 @@
+Game #990
+Prompt Type: illustration
+Player 1: gpt-3.5-turbo
+Player 2: gpt-4
+Date Time: 240308-075657
+Game Duration: 00:08
+Total Moves: 15
+Player 1 Already Taken Moves: 4
+Player 2 Already Taken Moves: 2
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 0
+Player 2 Out of Bounds Moves: 0
+Result: Draw
+Game Progress: 
+.|.|.
+.|X|.
+.|.|.
+
+O|.|.
+.|X|.
+.|.|.
+
+O|.|.
+.|X|.
+.|.|X
+
+O|.|.
+.|X|O
+.|.|X
+
+O|X|.
+.|X|O
+.|.|X
+
+O|X|.
+.|X|O
+.|O|X
+
+O|X|.
+X|X|O
+.|O|X
+
+O|X|O
+X|X|O
+.|O|X
+
+O|X|O
+X|X|O
+X|O|X
+

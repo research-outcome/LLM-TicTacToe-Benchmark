@@ -1,0 +1,43 @@
+Game #670
+Prompt Type: list
+Player 1: gpt-4
+Player 2: anthropic.claude-v2:1
+Date Time: 240307-211557
+Game Duration: 00:06
+Total Moves: 8
+Player 1 Already Taken Moves: 0
+Player 2 Already Taken Moves: 0
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 0
+Player 2 Out of Bounds Moves: 1
+Result: gpt-4 X wins!
+Game Progress: 
+.|.|.
+.|X|.
+.|.|.
+
+.|.|.
+O|X|.
+.|.|.
+
+X|.|.
+O|X|.
+.|.|.
+
+X|.|.
+O|X|.
+.|.|O
+
+X|.|.
+O|X|.
+X|.|O
+
+X|O|.
+O|X|.
+X|.|O
+
+X|O|X
+O|X|.
+X|.|O
+

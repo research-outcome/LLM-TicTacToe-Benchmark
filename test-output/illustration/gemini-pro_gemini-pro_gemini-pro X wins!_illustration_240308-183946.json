@@ -1,0 +1,97 @@
+{
+    "datetime": "240308-183946",
+    "player1": "gemini-pro",
+    "player2": "gemini-pro",
+    "totalMoves": 8,
+    "player1MovesAlreadyTaken": 1,
+    "player2MovesAlreadyTaken": 0,
+    "player1MovesOutOfBounds": 0,
+    "player2MovesOutOfBounds": 0,
+    "player1MovesInvalidFormat": 0,
+    "player2MovesInvalidFormat": 0,
+    "result": "gemini-pro X wins!",
+    "gameDuration": "00:15",
+    "promptType": "illustration",
+    "moves": [
+        {
+            "no": 1,
+            "player": 1,
+            "row": 1,
+            "col": 1,
+            "valid": "Y",
+            "promptType": "illustration",
+            "currentStatus": "... \n... \n... \n",
+            "response": "{'row': 1, 'column': 1}"
+        },
+        {
+            "no": 2,
+            "player": 2,
+            "row": 1,
+            "col": 2,
+            "valid": "Y",
+            "promptType": "illustration",
+            "currentStatus": "X.. \n... \n... \n",
+            "response": "{'row': 1, 'column': 2}"
+        },
+        {
+            "no": 3,
+            "player": 1,
+            "row": 1,
+            "col": 3,
+            "valid": "Y",
+            "promptType": "illustration",
+            "currentStatus": "XO. \n... \n... \n",
+            "response": "{'row': 1, 'column': 3}"
+        },
+        {
+            "no": 4,
+            "player": 2,
+            "row": 2,
+            "col": 1,
+            "valid": "Y",
+            "promptType": "illustration",
+            "currentStatus": "XOX \n... \n... \n",
+            "response": "{'row': 2, 'column': 1}"
+        },
+        {
+            "no": 5,
+            "player": 1,
+            "row": 1,
+            "col": 3,
+            "valid": "Already Taken",
+            "promptType": "illustration",
+            "currentStatus": "XOX \nO.. \n... \n",
+            "response": "{'row': 1, 'column': 3}"
+        },
+        {
+            "no": 6,
+            "player": 1,
+            "row": 2,
+            "col": 2,
+            "valid": "Y",
+            "promptType": "illustration",
+            "currentStatus": "XOX \nO.. \n... \n",
+            "response": "{'row': 2, 'column': 2}"
+        },
+        {
+            "no": 7,
+            "player": 2,
+            "row": 3,
+            "col": 3,
+            "valid": "Y",
+            "promptType": "illustration",
+            "currentStatus": "XOX \nOX. \n... \n",
+            "response": "{'row': 3, 'column': 3}"
+        },
+        {
+            "no": 8,
+            "player": 1,
+            "row": 3,
+            "col": 1,
+            "valid": "Y",
+            "promptType": "illustration",
+            "currentStatus": "XOX \nOX. \n..O \n",
+            "response": "{'row': 3, 'column': 1}"
+        }
+    ]
+}

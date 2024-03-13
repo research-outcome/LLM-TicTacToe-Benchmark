@@ -1,0 +1,39 @@
+Game #1203
+Prompt Type: list
+Player 1: gemini-pro
+Player 2: anthropic.claude-v2:1
+Date Time: 240308-162416
+Game Duration: 00:06
+Total Moves: 6
+Player 1 Already Taken Moves: 0
+Player 2 Already Taken Moves: 0
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 0
+Player 2 Out of Bounds Moves: 0
+Result: anthropic.claude-v2:1 O wins!
+Game Progress: 
+X|.|.
+.|.|.
+.|.|.
+
+X|.|.
+.|O|.
+.|.|.
+
+X|.|.
+.|O|.
+X|.|.
+
+X|O|.
+.|O|.
+X|.|.
+
+X|O|.
+.|O|X
+X|.|.
+
+X|O|.
+.|O|X
+X|O|.
+

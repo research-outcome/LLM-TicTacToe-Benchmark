@@ -1,0 +1,43 @@
+Game #772
+Prompt Type: list
+Player 1: meta.llama2-70b-chat-v1
+Player 2: ai21.j2-ultra-v1
+Date Time: 240307-215747
+Game Duration: 00:09
+Total Moves: 13
+Player 1 Already Taken Moves: 0
+Player 2 Already Taken Moves: 5
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 0
+Player 2 Out of Bounds Moves: 1
+Result: meta.llama2-70b-chat-v1 X wins!
+Game Progress: 
+X|.|.
+.|.|.
+.|.|.
+
+X|.|.
+.|.|O
+.|.|.
+
+X|.|.
+X|.|O
+.|.|.
+
+X|O|.
+X|.|O
+.|.|.
+
+X|O|.
+X|X|O
+.|.|.
+
+X|O|O
+X|X|O
+.|.|.
+
+X|O|O
+X|X|O
+X|.|.
+

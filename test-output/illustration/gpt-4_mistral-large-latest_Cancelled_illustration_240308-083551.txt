@@ -1,0 +1,43 @@
+Game #1054
+Prompt Type: illustration
+Player 1: gpt-4
+Player 2: mistral-large-latest
+Date Time: 240308-083551
+Game Duration: 01:22
+Total Moves: 21
+Player 1 Already Taken Moves: 0
+Player 2 Already Taken Moves: 14
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 0
+Player 2 Out of Bounds Moves: 0
+Result: Cancelled
+Game Progress: 
+.|.|.
+.|X|.
+.|.|.
+
+O|.|.
+.|X|.
+.|.|.
+
+O|.|.
+.|X|.
+.|.|X
+
+O|.|.
+.|X|O
+.|.|X
+
+O|X|.
+.|X|O
+.|.|X
+
+O|X|.
+.|X|O
+O|.|X
+
+O|X|X
+.|X|O
+O|.|X
+

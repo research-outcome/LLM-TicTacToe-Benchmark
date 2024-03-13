@@ -1,0 +1,35 @@
+Game #1092
+Prompt Type: illustration
+Player 1: mistral-large-latest
+Player 2: gpt-3.5-turbo
+Date Time: 240308-090152
+Game Duration: 00:14
+Total Moves: 5
+Player 1 Already Taken Moves: 0
+Player 2 Already Taken Moves: 0
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 0
+Player 2 Out of Bounds Moves: 0
+Result: mistral-large-latest X wins!
+Game Progress: 
+X|.|.
+.|.|.
+.|.|.
+
+X|O|.
+.|.|.
+.|.|.
+
+X|O|.
+X|.|.
+.|.|.
+
+X|O|.
+X|.|.
+.|O|.
+
+X|O|.
+X|.|.
+X|O|.
+

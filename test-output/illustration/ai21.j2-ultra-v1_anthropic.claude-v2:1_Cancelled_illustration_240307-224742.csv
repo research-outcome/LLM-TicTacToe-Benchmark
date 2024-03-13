@@ -1,0 +1,2 @@
+GameTime,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Player1OutOfBounds, Player2OutOfBounds 
+240307-224742,illustration,ai21.j2-ultra-v1,anthropic.claude-v2:1,Cancelled,00:44,21,0,0,0,0,0,18
