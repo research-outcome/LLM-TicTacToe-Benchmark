@@ -1,10 +1,6 @@
-This study investigates the strategic decision-making abilities of Large Language Models (LLMs) via the game of Tic-Tac-Toe.
+This research examines the capabilities of Large Language Models (LLMs) in strategic decision-making through the game of Tic-Tac-Toe. We evaluated top LLMs, such as Jurassic2 (ai21.j2-ultra-v1), Claude2.1 (anthropic.claude-v2:1), Gemini-pro, GPT-3.5-Turbo, GPT-4, Llama2-70 (meta.llama2-70b-chat-v1), and Mistral-Large (mistral-large-latest), focusing on their understanding of rules and strategic planning. The outcomes of these tests are available in the test-output folder of this repository. The repository contains three types of output files: JSON, CSV, and TXT. The CSV files, specifically all_list.csv and all_illustration.csv, consolidate the contents from the 'list' and 'illustration' folders, which represent the two different prompt types used in the benchmarking process.
 
-We tested leading LLMs including Jurassic-2 Ultra by AI21, Claude2.1 by Anthropic, Gemini-Pro by Google, GPT-3.5-turbo and GPT-4 by OpenAI, LLaMA2-70B by Meta, and Mistral-Large by Mistral, to assess their rule comprehension and strategic thinking.
-
-You can find the output of the runs in this repository. There are three types of output files; JSON, CSV, and TXT. 
-
-
+The JSON file offers comprehensive details encompassing the date/time, participants, outcome, length of the game, and every move made, covering both successful and unsuccessful efforts. An unsuccessful attempt is identified as one that targets a cell already taken in the 3x3 matrix, or when the response text fails to clearly indicate the subsequent action. Furthermore, the file captures the game's current state as communicated to the Large Language Model (LLM) and the LLM's replies for each action. In contrast, a more concise summary of the game is presented in a CSV file, omitting the intricate details of each move. The TXT file visually displays the sequence of game moves as illustrated.
 
 A sample of JSON, CSV, and TXT files are given below:
 
@@ -106,33 +102,41 @@ X|.|.
 .|.|.
 .|.|.
 
+
 X|O|.
 .|.|.
 .|.|.
 
+
 X|O|.
 .|X|.
 .|.|.
+
 
 X|O|.
 .|X|.
 .|.|O
+
 
 X|O|X
 .|X|.
 .|.|O
+
 
 X|O|X
 .|X|.
 O|.|O
 
+
 X|O|X
 .|X|.
 O|X|O
 
+
 X|O|X
 .|X|O
 O|X|O
+
 
 X|O|X
 X|X|O
