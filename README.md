@@ -83,7 +83,6 @@ Ga-me-Time,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1Invalid
 
 Sample TXT file content:
 
-Game #559
 Prompt Type: list
 Player 1: anthropic.claude-v2:1
 Player 2: gpt-4
