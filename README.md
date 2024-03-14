@@ -2,7 +2,11 @@ This study investigates the strategic decision-making abilities of Large Languag
 
 We tested leading LLMs including Jurassic-2 Ultra by AI21, Claude2.1 by Anthropic, Gemini-Pro by Google, GPT-3.5-turbo and GPT-4 by OpenAI, LLaMA2-70B by Meta, and Mistral-Large by Mistral, to assess their rule comprehension and strategic thinking.
 
-You can find the output of the runs in this repository. There are three types of output files; JSON, CSV, and TXT. A sample for these files are given below:
+You can find the output of the runs in this repository. There are three types of output files; JSON, CSV, and TXT. 
+
+
+
+A sample of JSON, CSV, and TXT files are given below:
 
 Sample JSON file content:
 
