@@ -4,6 +4,9 @@ The outcomes of these tests are available in the test-output folder of this repo
 
 The JSON file offers comprehensive details encompassing the date/time, participants, outcome, length of the game, and every move made, covering both successful and unsuccessful efforts. An unsuccessful attempt is identified as one that targets a cell already taken in the 3x3 matrix, or when the response text fails to clearly indicate the subsequent action. Furthermore, the file captures the game's current state as communicated to the Large Language Model (LLM) and the LLM's replies for each action. In contrast, a more concise summary of the game is presented in a CSV file, omitting the intricate details of each move. The TXT file visually displays the sequence of game moves as illustrated.
 
+![TicTacToe-GeminiPro-GPT4](https://github.com/research-outcome/LLM-TicTacToe-Benchmark/assets/136174718/be4c9543-802f-4ea4-9f3c-e639173d4d7a)
+
+
 A sample of JSON, CSV, and TXT files are given below:
 
 Sample JSON file content:
