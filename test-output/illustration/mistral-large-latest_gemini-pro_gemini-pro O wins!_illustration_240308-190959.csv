@@ -1,2 +1,0 @@
-GameTime,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Player1OutOfBounds, Player2OutOfBounds 
-240308-190959,illustration,mistral-large-latest,gemini-pro,gemini-pro O wins!,00:41,17,3,8,0,0,0,0

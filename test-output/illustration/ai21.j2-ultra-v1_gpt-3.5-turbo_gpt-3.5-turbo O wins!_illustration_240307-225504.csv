@@ -1,2 +1,0 @@
-GameTime,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Player1OutOfBounds, Player2OutOfBounds 
-240307-225504,illustration,ai21.j2-ultra-v1,gpt-3.5-turbo,gpt-3.5-turbo O wins!,00:09,20,6,5,0,0,1,0

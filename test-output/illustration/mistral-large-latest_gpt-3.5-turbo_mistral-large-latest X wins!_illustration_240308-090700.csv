@@ -1,2 +1,0 @@
-GameTime,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Player1OutOfBounds, Player2OutOfBounds 
-240308-090700,illustration,mistral-large-latest,gpt-3.5-turbo,mistral-large-latest X wins!,00:46,6,1,0,0,0,0,0

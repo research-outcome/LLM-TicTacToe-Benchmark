@@ -1,2 +1,0 @@
-GameTime,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Player1OutOfBounds, Player2OutOfBounds 
-240307-225346,illustration,ai21.j2-ultra-v1,gpt-3.5-turbo,Cancelled,00:11,21,11,2,1,0,1,0

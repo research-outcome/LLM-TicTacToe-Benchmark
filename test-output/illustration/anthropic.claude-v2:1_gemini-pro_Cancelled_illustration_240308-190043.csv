@@ -1,2 +1,0 @@
-GameTime,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Player1OutOfBounds, Player2OutOfBounds 
-240308-190043,illustration,anthropic.claude-v2:1,gemini-pro,Cancelled,01:06,21,3,0,0,0,16,0

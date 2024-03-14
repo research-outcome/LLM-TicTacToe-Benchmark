@@ -1,2 +1,0 @@
-GameTime,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Player1OutOfBounds, Player2OutOfBounds 
-240308-093622,illustration,meta.llama2-70b-chat-v1,anthropic.claude-v2:1,Cancelled,00:30,21,10,2,0,0,0,6
