@@ -1,0 +1,51 @@
+Game #1233
+Prompt Type: list
+Player 1: gemini-pro
+Player 2: mistral-large-latest
+Date Time: 240308-163025
+Game Duration: 00:24
+Total Moves: 9
+Player 1 Already Taken Moves: 0
+Player 2 Already Taken Moves: 0
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 0
+Player 2 Out of Bounds Moves: 0
+Result: Draw
+Game Progress: 
+.|X|.
+.|.|.
+.|.|.
+
+O|X|.
+.|.|.
+.|.|.
+
+O|X|.
+.|.|.
+X|.|.
+
+O|X|.
+.|O|.
+X|.|.
+
+O|X|.
+.|O|.
+X|.|X
+
+O|X|.
+.|O|.
+X|O|X
+
+O|X|.
+.|O|X
+X|O|X
+
+O|X|O
+.|O|X
+X|O|X
+
+O|X|O
+X|O|X
+X|O|X
+

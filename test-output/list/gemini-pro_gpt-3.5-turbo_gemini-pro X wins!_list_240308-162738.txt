@@ -1,0 +1,35 @@
+Game #1219
+Prompt Type: list
+Player 1: gemini-pro
+Player 2: gpt-3.5-turbo
+Date Time: 240308-162738
+Game Duration: 00:04
+Total Moves: 5
+Player 1 Already Taken Moves: 0
+Player 2 Already Taken Moves: 0
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 0
+Player 2 Out of Bounds Moves: 0
+Result: gemini-pro X wins!
+Game Progress: 
+X|.|.
+.|.|.
+.|.|.
+
+X|.|.
+.|O|.
+.|.|.
+
+X|.|.
+.|O|.
+X|.|.
+
+X|.|.
+.|O|.
+X|.|O
+
+X|.|.
+X|O|.
+X|.|O
+

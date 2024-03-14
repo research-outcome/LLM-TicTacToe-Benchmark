@@ -1,0 +1,47 @@
+Game #1403
+Prompt Type: illustration
+Player 1: ai21.j2-ultra-v1
+Player 2: gemini-pro
+Date Time: 240308-184746
+Game Duration: 00:10
+Total Moves: 11
+Player 1 Already Taken Moves: 2
+Player 2 Already Taken Moves: 1
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 0
+Player 2 Out of Bounds Moves: 0
+Result: gemini-pro O wins!
+Game Progress: 
+X|.|.
+.|.|.
+.|.|.
+
+X|.|O
+.|.|.
+.|.|.
+
+X|.|O
+X|.|.
+.|.|.
+
+X|.|O
+X|.|.
+O|.|.
+
+X|X|O
+X|.|.
+O|.|.
+
+X|X|O
+X|.|O
+O|.|.
+
+X|X|O
+X|X|O
+O|.|.
+
+X|X|O
+X|X|O
+O|.|O
+

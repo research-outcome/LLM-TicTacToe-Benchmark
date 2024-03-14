@@ -1,0 +1,2 @@
+GameTime,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Player1OutOfBounds, Player2OutOfBounds 
+240307-210005,list,gpt-3.5-turbo,ai21.j2-ultra-v1,gpt-3.5-turbo X wins!,00:03,6,0,0,0,0,0,1

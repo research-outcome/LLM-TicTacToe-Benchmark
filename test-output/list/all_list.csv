@@ -1,0 +1,491 @@
+GameTime,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Player1OutOfBounds, Player2OutOfBounds 
+240307-195137,list,ai21.j2-ultra-v1,ai21.j2-ultra-v1,ai21.j2-ultra-v1 O wins!,0:05,8,2,0,0,0,0,0
+240307-195114,list,ai21.j2-ultra-v1,ai21.j2-ultra-v1,ai21.j2-ultra-v1 X wins!,0:04,5,0,0,0,0,0,0
+240307-195123,list,ai21.j2-ultra-v1,ai21.j2-ultra-v1,ai21.j2-ultra-v1 X wins!,0:06,9,3,1,0,0,0,0
+240307-195130,list,ai21.j2-ultra-v1,ai21.j2-ultra-v1,ai21.j2-ultra-v1 X wins!,0:04,8,3,0,0,0,0,0
+240307-195142,list,ai21.j2-ultra-v1,ai21.j2-ultra-v1,ai21.j2-ultra-v1 X wins!,0:03,6,1,0,0,0,0,0
+240307-195158,list,ai21.j2-ultra-v1,ai21.j2-ultra-v1,Cancelled,0:13,21,12,3,0,0,0,0
+240307-195213,list,ai21.j2-ultra-v1,ai21.j2-ultra-v1,Cancelled,0:12,21,15,1,0,0,0,0
+240307-195228,list,ai21.j2-ultra-v1,ai21.j2-ultra-v1,Cancelled,0:13,21,10,4,0,0,1,0
+240307-195242,list,ai21.j2-ultra-v1,ai21.j2-ultra-v1,Cancelled,0:11,21,10,3,0,1,1,1
+240307-195256,list,ai21.j2-ultra-v1,ai21.j2-ultra-v1,Cancelled,0:11,21,5,10,0,0,0,1
+240307-195402,list,ai21.j2-ultra-v1,anthropic.claude-v2:1,ai21.j2-ultra-v1 X wins!,0:18,9,2,0,0,0,0,0
+240307-195425,list,ai21.j2-ultra-v1,anthropic.claude-v2:1,ai21.j2-ultra-v1 X wins!,0:20,18,9,0,0,0,0,0
+240307-195526,list,ai21.j2-ultra-v1,anthropic.claude-v2:1,ai21.j2-ultra-v1 X wins!,0:03,5,0,0,0,0,0,0
+240307-195307,list,ai21.j2-ultra-v1,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:09,7,0,0,0,0,1,0
+240307-195341,list,ai21.j2-ultra-v1,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:17,6,0,0,0,0,0,0
+240307-195439,list,ai21.j2-ultra-v1,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:11,17,9,0,0,0,2,0
+240307-195457,list,ai21.j2-ultra-v1,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:16,14,8,0,0,0,0,0
+240307-195536,list,ai21.j2-ultra-v1,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:08,6,0,0,0,0,0,0
+240307-195322,list,ai21.j2-ultra-v1,anthropic.claude-v2:1,Cancelled,0:13,21,15,0,0,0,0,0
+240307-195520,list,ai21.j2-ultra-v1,anthropic.claude-v2:1,Cancelled,0:21,21,12,0,0,0,1,0
+240308-174547,list,ai21.j2-ultra-v1,gemini-pro,ai21.j2-ultra-v1 X wins!,0:05,9,0,2,1,0,1,0
+240308-174606,list,ai21.j2-ultra-v1,gemini-pro,ai21.j2-ultra-v1 X wins!,0:16,21,11,1,0,0,0,0
+240308-174353,list,ai21.j2-ultra-v1,gemini-pro,Cancelled,0:17,21,13,0,0,0,0,0
+240308-174412,list,ai21.j2-ultra-v1,gemini-pro,Cancelled,0:17,21,11,1,0,0,1,0
+240308-174432,list,ai21.j2-ultra-v1,gemini-pro,Cancelled,0:17,21,15,0,0,0,0,0
+240308-174449,list,ai21.j2-ultra-v1,gemini-pro,Cancelled,0:15,21,13,0,0,0,0,0
+240308-174509,list,ai21.j2-ultra-v1,gemini-pro,Cancelled,0:17,21,12,0,0,0,1,0
+240308-174528,list,ai21.j2-ultra-v1,gemini-pro,Cancelled,0:16,21,12,1,0,0,0,0
+240308-174629,list,ai21.j2-ultra-v1,gemini-pro,Cancelled,0:20,21,13,0,0,0,0,0
+240308-174540,list,ai21.j2-ultra-v1,gemini-pro,gemini-pro O wins!,0:10,11,3,0,0,0,0,0
+240307-195735,list,ai21.j2-ultra-v1,gpt-3.5-turbo,ai21.j2-ultra-v1 X wins!,0:05,10,2,0,0,0,1,0
+240307-195746,list,ai21.j2-ultra-v1,gpt-3.5-turbo,ai21.j2-ultra-v1 X wins!,0:08,14,7,0,0,0,0,0
+240307-195816,list,ai21.j2-ultra-v1,gpt-3.5-turbo,ai21.j2-ultra-v1 X wins!,0:06,12,2,0,0,0,1,0
+240307-195827,list,ai21.j2-ultra-v1,gpt-3.5-turbo,ai21.j2-ultra-v1 X wins!,0:08,15,6,0,0,0,0,0
+240307-195550,list,ai21.j2-ultra-v1,gpt-3.5-turbo,Cancelled,0:11,21,12,0,1,0,2,0
+240307-195706,list,ai21.j2-ultra-v1,gpt-3.5-turbo,Cancelled,1:13,21,13,0,0,0,0,0
+240307-195720,list,ai21.j2-ultra-v1,gpt-3.5-turbo,Cancelled,0:12,21,12,0,0,0,1,0
+240307-195807,list,ai21.j2-ultra-v1,gpt-3.5-turbo,Cancelled,0:12,21,14,0,0,0,1,0
+240307-195728,list,ai21.j2-ultra-v1,gpt-3.5-turbo,Draw,0:05,10,1,0,0,0,0,0
+240307-195753,list,ai21.j2-ultra-v1,gpt-3.5-turbo,gpt-3.5-turbo O wins!,0:05,10,2,0,0,0,0,0
+240307-200021,list,ai21.j2-ultra-v1,gpt-4,ai21.j2-ultra-v1 X wins!,0:06,11,3,0,0,0,1,0
+240307-195842,list,ai21.j2-ultra-v1,gpt-4,Cancelled,0:13,21,12,0,0,0,1,0
+240307-195920,list,ai21.j2-ultra-v1,gpt-4,Cancelled,0:13,21,15,0,0,0,0,0
+240307-195935,list,ai21.j2-ultra-v1,gpt-4,Cancelled,0:13,21,13,0,0,0,0,0
+240307-195957,list,ai21.j2-ultra-v1,gpt-4,Cancelled,0:12,21,13,0,0,0,2,0
+240307-200012,list,ai21.j2-ultra-v1,gpt-4,Cancelled,0:12,21,12,0,0,0,3,0
+240307-195853,list,ai21.j2-ultra-v1,gpt-4,gpt-4 O wins!,0:09,13,5,0,0,0,0,0
+240307-195904,list,ai21.j2-ultra-v1,gpt-4,gpt-4 O wins!,0:08,13,2,1,0,0,2,0
+240307-195942,list,ai21.j2-ultra-v1,gpt-4,gpt-4 O wins!,0:05,8,1,1,0,0,0,0
+240307-200031,list,ai21.j2-ultra-v1,gpt-4,gpt-4 O wins!,0:08,14,5,0,0,0,3,0
+240307-200714,list,ai21.j2-ultra-v1,meta.llama2-70b-chat-v1,ai21.j2-ultra-v1 X wins!,0:04,6,1,0,0,0,0,0
+240307-200752,list,ai21.j2-ultra-v1,meta.llama2-70b-chat-v1,ai21.j2-ultra-v1 X wins!,0:03,5,0,0,0,0,0,0
+240307-200836,list,ai21.j2-ultra-v1,meta.llama2-70b-chat-v1,ai21.j2-ultra-v1 X wins!,0:05,8,1,0,0,0,0,0
+240307-200842,list,ai21.j2-ultra-v1,meta.llama2-70b-chat-v1,ai21.j2-ultra-v1 X wins!,0:03,5,0,0,0,0,0,0
+240307-200707,list,ai21.j2-ultra-v1,meta.llama2-70b-chat-v1,Cancelled,0:16,21,4,9,0,0,1,0
+240307-200732,list,ai21.j2-ultra-v1,meta.llama2-70b-chat-v1,Cancelled,0:15,21,9,2,0,0,2,0
+240307-200808,list,ai21.j2-ultra-v1,meta.llama2-70b-chat-v1,Cancelled,0:13,21,13,0,0,0,0,0
+240307-200828,list,ai21.j2-ultra-v1,meta.llama2-70b-chat-v1,Cancelled,0:18,21,0,14,0,0,0,0
+240307-200738,list,ai21.j2-ultra-v1,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:04,6,0,0,0,0,0,0
+240307-200746,list,ai21.j2-ultra-v1,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:05,8,2,0,0,0,0,0
+240307-200121,list,ai21.j2-ultra-v1,mistral-large-latest,ai21.j2-ultra-v1 X wins!,0:18,11,4,0,0,0,0,0
+240307-200140,list,ai21.j2-ultra-v1,mistral-large-latest,ai21.j2-ultra-v1 X wins!,0:17,9,2,0,0,0,0,0
+240307-200101,list,ai21.j2-ultra-v1,mistral-large-latest,Cancelled,0:28,21,11,0,0,0,2,0
+240307-200228,list,ai21.j2-ultra-v1,mistral-large-latest,Cancelled,0:27,21,12,0,0,0,1,0
+240307-200354,list,ai21.j2-ultra-v1,mistral-large-latest,Cancelled,1:23,21,1,0,0,0,0,17
+240307-200420,list,ai21.j2-ultra-v1,mistral-large-latest,Cancelled,0:23,21,14,0,0,0,1,0
+240307-200550,list,ai21.j2-ultra-v1,mistral-large-latest,Cancelled,1:28,21,0,2,0,0,0,16
+240307-200619,list,ai21.j2-ultra-v1,mistral-large-latest,Cancelled,0:26,21,14,0,0,0,1,0
+240307-200649,list,ai21.j2-ultra-v1,mistral-large-latest,Cancelled,0:27,21,12,0,0,0,1,0
+240307-200159,list,ai21.j2-ultra-v1,mistral-large-latest,mistral-large-latest O wins!,0:16,7,1,0,0,0,0,0
+240307-201028,list,anthropic.claude-v2:1,ai21.j2-ultra-v1,ai21.j2-ultra-v1 O wins!,0:13,10,0,2,0,0,2,0
+240307-200907,list,anthropic.claude-v2:1,ai21.j2-ultra-v1,anthropic.claude-v2:1 X wins!,0:07,5,0,0,0,0,0,0
+240307-200916,list,anthropic.claude-v2:1,ai21.j2-ultra-v1,anthropic.claude-v2:1 X wins!,0:07,5,0,0,0,0,0,0
+240307-200939,list,anthropic.claude-v2:1,ai21.j2-ultra-v1,anthropic.claude-v2:1 X wins!,0:21,5,0,0,0,0,0,0
+240307-201003,list,anthropic.claude-v2:1,ai21.j2-ultra-v1,anthropic.claude-v2:1 X wins!,0:22,7,0,0,0,0,0,0
+240307-201012,list,anthropic.claude-v2:1,ai21.j2-ultra-v1,anthropic.claude-v2:1 X wins!,0:07,10,0,3,0,0,0,0
+240307-201048,list,anthropic.claude-v2:1,ai21.j2-ultra-v1,anthropic.claude-v2:1 X wins!,0:18,10,0,0,0,0,5,0
+240307-201055,list,anthropic.claude-v2:1,ai21.j2-ultra-v1,anthropic.claude-v2:1 X wins!,0:04,6,0,0,0,0,1,0
+240307-201110,list,anthropic.claude-v2:1,ai21.j2-ultra-v1,anthropic.claude-v2:1 X wins!,0:13,9,0,0,0,0,0,0
+240307-200857,list,anthropic.claude-v2:1,ai21.j2-ultra-v1,Cancelled,0:13,21,0,12,0,0,2,0
+240307-201156,list,anthropic.claude-v2:1,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:43,19,0,0,0,0,13,0
+240307-201909,list,anthropic.claude-v2:1,anthropic.claude-v2:1,anthropic.claude-v2:1 X wins!,0:12,7,0,0,0,0,0,0
+240307-201240,list,anthropic.claude-v2:1,anthropic.claude-v2:1,Cancelled,0:42,21,0,0,0,0,19,0
+240307-201352,list,anthropic.claude-v2:1,anthropic.claude-v2:1,Cancelled,1:09,21,0,0,0,0,19,0
+240307-201441,list,anthropic.claude-v2:1,anthropic.claude-v2:1,Cancelled,0:46,21,0,0,0,0,19,0
+240307-201530,list,anthropic.claude-v2:1,anthropic.claude-v2:1,Cancelled,0:47,21,0,0,0,0,19,0
+240307-201625,list,anthropic.claude-v2:1,anthropic.claude-v2:1,Cancelled,0:52,21,0,0,0,0,19,0
+240307-201700,list,anthropic.claude-v2:1,anthropic.claude-v2:1,Cancelled,0:33,21,0,0,0,0,19,0
+240307-201748,list,anthropic.claude-v2:1,anthropic.claude-v2:1,Cancelled,0:45,21,0,0,0,0,19,0
+240307-201855,list,anthropic.claude-v2:1,anthropic.claude-v2:1,Cancelled,1:05,21,0,0,0,0,19,0
+240308-174639,list,anthropic.claude-v2:1,gemini-pro,anthropic.claude-v2:1 X wins!,0:08,7,0,0,0,0,0,0
+240308-174649,list,anthropic.claude-v2:1,gemini-pro,anthropic.claude-v2:1 X wins!,0:07,5,0,0,0,0,0,0
+240308-174747,list,anthropic.claude-v2:1,gemini-pro,anthropic.claude-v2:1 X wins!,0:06,5,0,0,0,0,0,0
+240308-174818,list,anthropic.claude-v2:1,gemini-pro,anthropic.claude-v2:1 X wins!,0:05,5,0,0,0,0,0,0
+240308-174828,list,anthropic.claude-v2:1,gemini-pro,anthropic.claude-v2:1 X wins!,0:08,7,0,0,0,0,0,0
+240308-174843,list,anthropic.claude-v2:1,gemini-pro,anthropic.claude-v2:1 X wins!,0:12,9,0,0,0,0,0,0
+240308-174739,list,anthropic.claude-v2:1,gemini-pro,Cancelled,0:39,21,0,0,0,0,19,0
+240308-174657,list,anthropic.claude-v2:1,gemini-pro,gemini-pro O wins!,0:06,6,0,0,0,0,0,0
+240308-174800,list,anthropic.claude-v2:1,gemini-pro,gemini-pro O wins!,0:10,8,0,0,0,0,0,0
+240308-174810,list,anthropic.claude-v2:1,gemini-pro,gemini-pro O wins!,0:08,6,0,0,0,0,0,0
+240307-202028,list,anthropic.claude-v2:1,gpt-3.5-turbo,anthropic.claude-v2:1 X wins!,0:11,7,0,0,0,0,0,0
+240307-202249,list,anthropic.claude-v2:1,gpt-3.5-turbo,anthropic.claude-v2:1 X wins!,0:11,7,0,0,0,0,0,0
+240307-202503,list,anthropic.claude-v2:1,gpt-3.5-turbo,anthropic.claude-v2:1 X wins!,0:59,23,0,0,0,0,16,0
+240307-202001,list,anthropic.claude-v2:1,gpt-3.5-turbo,Cancelled,0:49,21,0,0,0,0,19,0
+240307-202139,list,anthropic.claude-v2:1,gpt-3.5-turbo,Cancelled,1:09,21,0,0,0,0,19,0
+240307-202236,list,anthropic.claude-v2:1,gpt-3.5-turbo,Cancelled,0:54,21,0,0,0,0,19,0
+240307-202347,list,anthropic.claude-v2:1,gpt-3.5-turbo,Cancelled,0:45,21,0,0,0,0,19,0
+240307-202015,list,anthropic.claude-v2:1,gpt-3.5-turbo,Draw,0:11,9,0,0,0,0,0,0
+240307-202259,list,anthropic.claude-v2:1,gpt-3.5-turbo,gpt-3.5-turbo O wins!,0:08,8,0,0,0,0,0,0
+240307-202402,list,anthropic.claude-v2:1,gpt-3.5-turbo,gpt-3.5-turbo O wins!,0:12,8,0,0,0,0,2,0
+240307-202531,list,anthropic.claude-v2:1,gpt-4,anthropic.claude-v2:1 X wins!,0:07,9,0,0,0,0,0,0
+240307-202615,list,anthropic.claude-v2:1,gpt-4,anthropic.claude-v2:1 X wins!,0:27,7,0,0,0,0,0,0
+240307-202627,list,anthropic.claude-v2:1,gpt-4,anthropic.claude-v2:1 X wins!,0:09,7,0,0,0,0,0,0
+240307-202712,list,anthropic.claude-v2:1,gpt-4,anthropic.claude-v2:1 X wins!,0:10,7,0,0,0,0,0,0
+240307-202726,list,anthropic.claude-v2:1,gpt-4,anthropic.claude-v2:1 X wins!,0:12,9,0,0,0,0,0,0
+240307-202733,list,anthropic.claude-v2:1,gpt-4,anthropic.claude-v2:1 X wins!,0:04,5,0,0,0,0,0,0
+240307-202522,list,anthropic.claude-v2:1,gpt-4,Draw,0:16,9,0,0,0,0,0,0
+240307-202546,list,anthropic.claude-v2:1,gpt-4,Draw,0:12,9,0,0,0,0,0,0
+240307-202650,list,anthropic.claude-v2:1,gpt-4,Draw,0:20,9,0,0,0,0,0,0
+240307-202659,list,anthropic.claude-v2:1,gpt-4,gpt-4 O wins!,0:07,8,0,0,0,0,0,0
+240307-205651,list,anthropic.claude-v2:1,meta.llama2-70b-chat-v1,anthropic.claude-v2:1 X wins!,0:07,7,0,0,0,0,0,0
+240307-205711,list,anthropic.claude-v2:1,meta.llama2-70b-chat-v1,anthropic.claude-v2:1 X wins!,0:17,11,0,0,0,0,4,0
+240307-205741,list,anthropic.claude-v2:1,meta.llama2-70b-chat-v1,anthropic.claude-v2:1 X wins!,0:15,13,0,0,0,0,6,0
+240307-205803,list,anthropic.claude-v2:1,meta.llama2-70b-chat-v1,anthropic.claude-v2:1 X wins!,0:19,10,0,0,0,0,5,0
+240307-205837,list,anthropic.claude-v2:1,meta.llama2-70b-chat-v1,anthropic.claude-v2:1 X wins!,0:32,15,0,0,0,0,8,0
+240307-205851,list,anthropic.claude-v2:1,meta.llama2-70b-chat-v1,anthropic.claude-v2:1 X wins!,0:12,9,0,0,0,0,2,0
+240307-205941,list,anthropic.claude-v2:1,meta.llama2-70b-chat-v1,anthropic.claude-v2:1 X wins!,0:13,9,0,0,0,0,2,0
+240307-205925,list,anthropic.claude-v2:1,meta.llama2-70b-chat-v1,Cancelled,0:31,21,0,0,0,0,19,0
+240307-205642,list,anthropic.claude-v2:1,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:05,6,0,0,0,0,0,0
+240307-205723,list,anthropic.claude-v2:1,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:10,7,0,0,0,0,1,0
+240307-205245,list,anthropic.claude-v2:1,mistral-large-latest,anthropic.claude-v2:1 X wins!,0:14,5,0,0,0,0,0,0
+240307-205512,list,anthropic.claude-v2:1,mistral-large-latest,anthropic.claude-v2:1 X wins!,0:14,5,0,0,0,0,0,0
+240307-205612,list,anthropic.claude-v2:1,mistral-large-latest,anthropic.claude-v2:1 X wins!,0:20,5,0,0,0,0,0,0
+240307-205634,list,anthropic.claude-v2:1,mistral-large-latest,anthropic.claude-v2:1 X wins!,0:20,7,0,0,0,0,0,0
+240307-202821,list,anthropic.claude-v2:1,mistral-large-latest,Cancelled,0:46,21,0,0,0,0,19,0
+240307-202924,list,anthropic.claude-v2:1,mistral-large-latest,Cancelled,1:01,21,0,0,0,0,19,0
+240307-205228,list,anthropic.claude-v2:1,mistral-large-latest,Cancelled,0:32,21,0,0,0,0,19,0
+240307-205322,list,anthropic.claude-v2:1,mistral-large-latest,Cancelled,0:34,21,0,0,0,0,19,0
+240307-205418,list,anthropic.claude-v2:1,mistral-large-latest,Cancelled,0:54,22,0,0,0,0,18,1
+240307-205549,list,anthropic.claude-v2:1,mistral-large-latest,Cancelled,0:35,21,0,0,0,0,19,0
+240308-162342,list,gemini-pro,ai21.j2-ultra-v1,ai21.j2-ultra-v1 O wins!,0:16,20,0,12,0,0,0,0
+240308-162233,list,gemini-pro,ai21.j2-ultra-v1,Cancelled,0:16,21,0,14,0,0,0,0
+240308-162205,list,gemini-pro,ai21.j2-ultra-v1,gemini-pro X wins!,0:06,5,0,0,0,0,0,0
+240308-162214,list,gemini-pro,ai21.j2-ultra-v1,gemini-pro X wins!,0:07,8,0,1,0,0,0,0
+240308-162248,list,gemini-pro,ai21.j2-ultra-v1,gemini-pro X wins!,0:12,15,0,8,0,0,0,0
+240308-162256,list,gemini-pro,ai21.j2-ultra-v1,gemini-pro X wins!,0:05,6,0,1,0,0,0,0
+240308-162303,list,gemini-pro,ai21.j2-ultra-v1,gemini-pro X wins!,0:04,5,0,0,0,0,0,0
+240308-162316,list,gemini-pro,ai21.j2-ultra-v1,gemini-pro X wins!,0:10,10,0,0,0,0,0,1
+240308-162323,list,gemini-pro,ai21.j2-ultra-v1,gemini-pro X wins!,0:04,5,0,0,0,0,0,0
+240308-162356,list,gemini-pro,ai21.j2-ultra-v1,gemini-pro X wins!,0:12,16,0,7,0,0,0,0
+240308-162416,list,gemini-pro,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:06,6,0,0,0,0,0,0
+240308-162446,list,gemini-pro,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:08,6,0,0,0,0,0,0
+240308-162502,list,gemini-pro,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:13,8,0,0,0,0,0,0
+240308-162528,list,gemini-pro,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:09,8,0,0,0,0,0,2
+240308-162408,list,gemini-pro,anthropic.claude-v2:1,gemini-pro X wins!,0:09,6,0,1,0,0,0,0
+240308-162435,list,gemini-pro,anthropic.claude-v2:1,gemini-pro X wins!,0:16,11,2,0,0,0,0,0
+240308-162517,list,gemini-pro,anthropic.claude-v2:1,gemini-pro X wins!,0:12,10,0,0,0,0,0,3
+240308-162546,list,gemini-pro,anthropic.claude-v2:1,gemini-pro X wins!,0:15,9,0,0,0,0,0,0
+240308-162556,list,gemini-pro,anthropic.claude-v2:1,gemini-pro X wins!,0:08,6,0,1,0,0,0,0
+240308-162619,list,gemini-pro,anthropic.claude-v2:1,gemini-pro X wins!,0:20,10,1,0,0,0,0,0
+240308-163701,list,gemini-pro,gemini-pro,Draw,0:19,9,0,0,0,0,0,0
+240308-163715,list,gemini-pro,gemini-pro,Draw,0:11,10,1,0,0,0,0,0
+240308-163856,list,gemini-pro,gemini-pro,Draw,0:12,9,0,0,0,0,0,0
+240308-163724,list,gemini-pro,gemini-pro,gemini-pro O wins!,0:06,6,0,0,0,0,0,0
+240308-163803,list,gemini-pro,gemini-pro,gemini-pro O wins!,0:12,8,0,0,0,0,0,0
+240308-163830,list,gemini-pro,gemini-pro,gemini-pro O wins!,0:09,8,0,0,0,0,0,0
+240308-175905,list,gemini-pro,gemini-pro,gemini-pro X wins!,0:12,9,0,0,0,0,0,0
+240308-180030,list,gemini-pro,gemini-pro,gemini-pro X wins!,0:13,7,0,0,0,0,0,0
+240308-180041,list,gemini-pro,gemini-pro,gemini-pro X wins!,0:09,7,0,0,0,0,0,0
+240308-180050,list,gemini-pro,gemini-pro,gemini-pro X wins!,0:06,5,0,0,0,0,0,0
+240308-162651,list,gemini-pro,gpt-3.5-turbo,Draw,0:11,10,1,0,0,0,0,0
+240308-162714,list,gemini-pro,gpt-3.5-turbo,Draw,0:12,11,2,0,0,0,0,0
+240308-162731,list,gemini-pro,gpt-3.5-turbo,gemini-pro X wins!,0:07,9,0,0,0,0,0,0
+240308-162738,list,gemini-pro,gpt-3.5-turbo,gemini-pro X wins!,0:04,5,0,0,0,0,0,0
+240308-162754,list,gemini-pro,gpt-3.5-turbo,gemini-pro X wins!,0:07,9,0,0,0,0,0,0
+240308-162628,list,gemini-pro,gpt-3.5-turbo,gpt-3.5-turbo O wins!,0:07,8,0,0,0,0,0,0
+240308-162638,list,gemini-pro,gpt-3.5-turbo,gpt-3.5-turbo O wins!,0:07,8,0,0,0,0,0,0
+240308-162700,list,gemini-pro,gpt-3.5-turbo,gpt-3.5-turbo O wins!,0:06,8,0,0,0,0,0,0
+240308-162722,list,gemini-pro,gpt-3.5-turbo,gpt-3.5-turbo O wins!,0:05,6,0,0,0,0,0,0
+240308-162745,list,gemini-pro,gpt-3.5-turbo,gpt-3.5-turbo O wins!,0:04,6,0,0,0,0,0,0
+240308-162835,list,gemini-pro,gpt-4,Draw,0:11,9,0,0,0,0,0,0
+240308-162858,list,gemini-pro,gpt-4,Draw,0:11,9,0,0,0,0,0,0
+240308-162803,list,gemini-pro,gpt-4,gemini-pro X wins!,0:06,7,0,0,0,0,0,0
+240308-162822,list,gemini-pro,gpt-4,gemini-pro X wins!,0:08,9,0,0,0,0,0,0
+240308-162845,list,gemini-pro,gpt-4,gemini-pro X wins!,0:07,7,0,0,0,0,0,0
+240308-162909,list,gemini-pro,gpt-4,gemini-pro X wins!,0:08,9,0,0,0,0,0,0
+240308-162938,list,gemini-pro,gpt-4,gemini-pro X wins!,0:10,9,0,0,0,0,0,0
+240308-162811,list,gemini-pro,gpt-4,gpt-4 O wins!,0:05,6,0,0,0,0,0,0
+240308-162918,list,gemini-pro,gpt-4,gpt-4 O wins!,0:06,6,0,0,0,0,0,0
+240308-162926,list,gemini-pro,gpt-4,gpt-4 O wins!,0:06,6,0,0,0,0,0,0
+240308-163629,list,gemini-pro,meta.llama2-70b-chat-v1,Cancelled,0:22,21,0,14,0,0,0,0
+240308-163444,list,gemini-pro,meta.llama2-70b-chat-v1,gemini-pro X wins!,0:11,7,0,0,0,0,0,0
+240308-163501,list,gemini-pro,meta.llama2-70b-chat-v1,gemini-pro X wins!,0:15,12,0,3,0,0,0,0
+240308-163529,list,gemini-pro,meta.llama2-70b-chat-v1,gemini-pro X wins!,0:07,7,0,0,0,0,0,0
+240308-163550,list,gemini-pro,meta.llama2-70b-chat-v1,gemini-pro X wins!,0:06,5,0,0,0,0,0,0
+240308-163604,list,gemini-pro,meta.llama2-70b-chat-v1,gemini-pro X wins!,0:12,10,0,1,0,0,0,0
+240308-163510,list,gemini-pro,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:07,6,0,0,0,0,0,0
+240308-163520,list,gemini-pro,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:07,6,0,0,0,0,0,0
+240308-163542,list,gemini-pro,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:10,8,0,0,0,0,0,0
+240308-163640,list,gemini-pro,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:09,8,0,0,0,0,0,0
+240308-163157,list,gemini-pro,mistral-large-latest,Cancelled,1:30,21,0,0,0,0,0,18
+240308-163025,list,gemini-pro,mistral-large-latest,Draw,0:24,9,0,0,0,0,0,0
+240308-162959,list,gemini-pro,mistral-large-latest,gemini-pro X wins!,0:18,7,0,0,0,0,0,0
+240308-163226,list,gemini-pro,mistral-large-latest,gemini-pro X wins!,0:26,9,0,0,0,0,0,0
+240308-163301,list,gemini-pro,mistral-large-latest,gemini-pro X wins!,0:13,5,0,0,0,0,0,0
+240308-163410,list,gemini-pro,mistral-large-latest,gemini-pro X wins!,0:22,7,0,0,0,0,0,0
+240308-163245,list,gemini-pro,mistral-large-latest,mistral-large-latest O wins!,0:17,6,0,0,0,0,0,0
+240308-163321,list,gemini-pro,mistral-large-latest,mistral-large-latest O wins!,0:17,6,0,0,0,0,0,0
+240308-163346,list,gemini-pro,mistral-large-latest,mistral-large-latest O wins!,0:23,8,0,0,0,0,0,0
+240308-163430,list,gemini-pro,mistral-large-latest,mistral-large-latest O wins!,0:17,6,0,0,0,0,0,0
+240307-210041,list,gpt-3.5-turbo,ai21.j2-ultra-v1,Cancelled,0:12,21,13,0,0,0,0,0
+240307-205948,list,gpt-3.5-turbo,ai21.j2-ultra-v1,gpt-3.5-turbo X wins!,0:05,9,0,2,0,0,0,0
+240307-205954,list,gpt-3.5-turbo,ai21.j2-ultra-v1,gpt-3.5-turbo X wins!,0:04,7,0,2,0,0,0,0
+240307-210000,list,gpt-3.5-turbo,ai21.j2-ultra-v1,gpt-3.5-turbo X wins!,0:03,7,0,1,0,0,0,1
+240307-210005,list,gpt-3.5-turbo,ai21.j2-ultra-v1,gpt-3.5-turbo X wins!,0:03,6,0,0,0,0,0,1
+240307-210010,list,gpt-3.5-turbo,ai21.j2-ultra-v1,gpt-3.5-turbo X wins!,0:03,6,0,0,0,0,0,1
+240307-210016,list,gpt-3.5-turbo,ai21.j2-ultra-v1,gpt-3.5-turbo X wins!,0:03,6,0,1,0,0,0,0
+240307-210021,list,gpt-3.5-turbo,ai21.j2-ultra-v1,gpt-3.5-turbo X wins!,0:02,5,0,0,0,0,0,0
+240307-210026,list,gpt-3.5-turbo,ai21.j2-ultra-v1,gpt-3.5-turbo X wins!,0:03,6,0,1,0,0,0,0
+240307-210047,list,gpt-3.5-turbo,ai21.j2-ultra-v1,gpt-3.5-turbo X wins!,0:04,9,1,1,0,1,0,1
+240307-210223,list,gpt-3.5-turbo,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:15,7,0,0,0,0,0,1
+240307-210229,list,gpt-3.5-turbo,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:04,6,0,0,0,0,0,0
+240307-210056,list,gpt-3.5-turbo,anthropic.claude-v2:1,gpt-3.5-turbo X wins!,0:06,7,0,0,0,0,0,0
+240307-210116,list,gpt-3.5-turbo,anthropic.claude-v2:1,gpt-3.5-turbo X wins!,0:18,7,0,0,0,0,0,2
+240307-210129,list,gpt-3.5-turbo,anthropic.claude-v2:1,gpt-3.5-turbo X wins!,0:10,10,1,0,0,0,0,0
+240307-210145,list,gpt-3.5-turbo,anthropic.claude-v2:1,gpt-3.5-turbo X wins!,0:14,8,0,0,0,0,0,3
+240307-210152,list,gpt-3.5-turbo,anthropic.claude-v2:1,gpt-3.5-turbo X wins!,0:04,5,0,0,0,0,0,0
+240307-210205,list,gpt-3.5-turbo,anthropic.claude-v2:1,gpt-3.5-turbo X wins!,0:11,9,0,0,0,0,0,2
+240307-210235,list,gpt-3.5-turbo,anthropic.claude-v2:1,gpt-3.5-turbo X wins!,0:03,5,0,0,0,0,0,0
+240307-210241,list,gpt-3.5-turbo,anthropic.claude-v2:1,gpt-3.5-turbo X wins!,0:03,6,0,0,0,0,0,1
+240308-174849,list,gpt-3.5-turbo,gemini-pro,gpt-3.5-turbo X wins!,0:04,5,0,0,0,0,0,0
+240308-174858,list,gpt-3.5-turbo,gemini-pro,gpt-3.5-turbo X wins!,0:06,7,0,0,0,0,0,0
+240308-174904,list,gpt-3.5-turbo,gemini-pro,gpt-3.5-turbo X wins!,0:04,5,0,0,0,0,0,0
+240308-174910,list,gpt-3.5-turbo,gemini-pro,gpt-3.5-turbo X wins!,0:03,5,0,0,0,0,0,0
+240308-174917,list,gpt-3.5-turbo,gemini-pro,gpt-3.5-turbo X wins!,0:04,5,0,0,0,0,0,0
+240308-174923,list,gpt-3.5-turbo,gemini-pro,gpt-3.5-turbo X wins!,0:04,5,0,0,0,0,0,0
+240308-174931,list,gpt-3.5-turbo,gemini-pro,gpt-3.5-turbo X wins!,0:06,7,0,0,0,0,0,0
+240308-174937,list,gpt-3.5-turbo,gemini-pro,gpt-3.5-turbo X wins!,0:03,5,0,0,0,0,0,0
+240308-174945,list,gpt-3.5-turbo,gemini-pro,gpt-3.5-turbo X wins!,0:05,5,0,0,0,0,0,0
+240308-174951,list,gpt-3.5-turbo,gemini-pro,gpt-3.5-turbo X wins!,0:04,5,0,0,0,0,0,0
+240307-210252,list,gpt-3.5-turbo,gpt-3.5-turbo,gpt-3.5-turbo O wins!,0:02,6,0,0,0,0,0,0
+240307-210312,list,gpt-3.5-turbo,gpt-3.5-turbo,gpt-3.5-turbo O wins!,0:02,6,0,0,0,0,0,0
+240307-210248,list,gpt-3.5-turbo,gpt-3.5-turbo,gpt-3.5-turbo X wins!,0:05,11,4,0,0,0,0,0
+240307-210257,list,gpt-3.5-turbo,gpt-3.5-turbo,gpt-3.5-turbo X wins!,0:02,5,0,0,0,0,0,0
+240307-210302,list,gpt-3.5-turbo,gpt-3.5-turbo,gpt-3.5-turbo X wins!,0:02,5,0,0,0,0,0,0
+240307-210307,list,gpt-3.5-turbo,gpt-3.5-turbo,gpt-3.5-turbo X wins!,0:03,7,0,0,0,0,0,0
+240307-210316,list,gpt-3.5-turbo,gpt-3.5-turbo,gpt-3.5-turbo X wins!,0:02,5,0,0,0,0,0,0
+240307-210322,list,gpt-3.5-turbo,gpt-3.5-turbo,gpt-3.5-turbo X wins!,0:03,7,0,0,0,0,0,0
+240307-210326,list,gpt-3.5-turbo,gpt-3.5-turbo,gpt-3.5-turbo X wins!,0:02,5,0,0,0,0,0,0
+240307-210333,list,gpt-3.5-turbo,gpt-3.5-turbo,gpt-3.5-turbo X wins!,0:04,9,2,0,0,0,0,0
+240307-210348,list,gpt-3.5-turbo,gpt-4,Cancelled,0:13,21,13,0,0,0,0,0
+240307-210408,list,gpt-3.5-turbo,gpt-4,Cancelled,0:11,21,13,0,0,0,0,0
+240307-210455,list,gpt-3.5-turbo,gpt-4,Draw,0:07,14,5,0,0,0,0,0
+240307-210354,list,gpt-3.5-turbo,gpt-4,gpt-3.5-turbo X wins!,0:04,7,0,0,0,0,0,0
+240307-210429,list,gpt-3.5-turbo,gpt-4,gpt-3.5-turbo X wins!,0:04,5,0,0,0,0,0,0
+240307-210435,list,gpt-3.5-turbo,gpt-4,gpt-3.5-turbo X wins!,0:04,7,0,0,0,0,0,0
+240307-210501,list,gpt-3.5-turbo,gpt-4,gpt-3.5-turbo X wins!,0:04,5,0,0,0,0,0,0
+240307-210415,list,gpt-3.5-turbo,gpt-4,gpt-4 O wins!,0:05,9,1,0,0,0,0,0
+240307-210423,list,gpt-3.5-turbo,gpt-4,gpt-4 O wins!,0:05,8,0,0,0,0,0,0
+240307-210445,list,gpt-3.5-turbo,gpt-4,gpt-4 O wins!,0:07,8,0,0,0,0,0,0
+240307-211229,list,gpt-3.5-turbo,meta.llama2-70b-chat-v1,Cancelled,0:18,21,1,13,0,0,0,0
+240307-211323,list,gpt-3.5-turbo,meta.llama2-70b-chat-v1,Cancelled,0:18,21,0,14,0,0,0,0
+240307-211203,list,gpt-3.5-turbo,meta.llama2-70b-chat-v1,gpt-3.5-turbo X wins!,0:04,5,0,0,0,0,0,0
+240307-211208,list,gpt-3.5-turbo,meta.llama2-70b-chat-v1,gpt-3.5-turbo X wins!,0:03,5,0,0,0,0,0,0
+240307-211235,list,gpt-3.5-turbo,meta.llama2-70b-chat-v1,gpt-3.5-turbo X wins!,0:04,7,0,0,0,0,0,0
+240307-211243,list,gpt-3.5-turbo,meta.llama2-70b-chat-v1,gpt-3.5-turbo X wins!,0:05,7,0,0,0,0,0,0
+240307-211248,list,gpt-3.5-turbo,meta.llama2-70b-chat-v1,gpt-3.5-turbo X wins!,0:03,5,0,0,0,0,0,0
+240307-211254,list,gpt-3.5-turbo,meta.llama2-70b-chat-v1,gpt-3.5-turbo X wins!,0:03,5,0,0,0,0,0,0
+240307-211303,list,gpt-3.5-turbo,meta.llama2-70b-chat-v1,gpt-3.5-turbo X wins!,0:07,10,1,0,0,0,0,0
+240307-211328,list,gpt-3.5-turbo,meta.llama2-70b-chat-v1,gpt-3.5-turbo X wins!,0:03,5,0,0,0,0,0,0
+240307-210631,list,gpt-3.5-turbo,mistral-large-latest,Cancelled,1:27,21,0,2,0,0,0,16
+240307-210800,list,gpt-3.5-turbo,mistral-large-latest,Cancelled,1:26,21,0,1,0,0,0,17
+240307-210952,list,gpt-3.5-turbo,mistral-large-latest,Cancelled,1:28,21,0,0,0,0,0,18
+240307-211115,list,gpt-3.5-turbo,mistral-large-latest,Draw,0:23,14,5,0,0,0,0,0
+240307-211156,list,gpt-3.5-turbo,mistral-large-latest,Draw,0:21,11,2,0,0,0,0,0
+240307-210822,list,gpt-3.5-turbo,mistral-large-latest,mistral-large-latest O wins!,0:20,8,0,0,0,0,0,0
+240307-211009,list,gpt-3.5-turbo,mistral-large-latest,mistral-large-latest O wins!,0:15,6,0,0,0,0,0,0
+240307-211033,list,gpt-3.5-turbo,mistral-large-latest,mistral-large-latest O wins!,0:21,8,0,0,0,0,0,0
+240307-211050,list,gpt-3.5-turbo,mistral-large-latest,mistral-large-latest O wins!,0:15,6,0,0,0,0,0,0
+240307-211133,list,gpt-3.5-turbo,mistral-large-latest,mistral-large-latest O wins!,0:15,6,0,0,0,0,0,0
+240307-211336,list,gpt-4,ai21.j2-ultra-v1,gpt-4 X wins!,0:05,7,0,2,0,0,0,0
+240307-211342,list,gpt-4,ai21.j2-ultra-v1,gpt-4 X wins!,0:04,6,0,1,0,0,0,0
+240307-211348,list,gpt-4,ai21.j2-ultra-v1,gpt-4 X wins!,0:03,5,0,0,0,0,0,0
+240307-211354,list,gpt-4,ai21.j2-ultra-v1,gpt-4 X wins!,0:04,6,0,1,0,0,0,0
+240307-211401,list,gpt-4,ai21.j2-ultra-v1,gpt-4 X wins!,0:04,8,1,0,0,1,0,1
+240307-211406,list,gpt-4,ai21.j2-ultra-v1,gpt-4 X wins!,0:03,5,0,0,0,0,0,0
+240307-211412,list,gpt-4,ai21.j2-ultra-v1,gpt-4 X wins!,0:03,5,0,0,0,0,0,0
+240307-211418,list,gpt-4,ai21.j2-ultra-v1,gpt-4 X wins!,0:03,5,0,0,0,0,0,0
+240307-211424,list,gpt-4,ai21.j2-ultra-v1,gpt-4 X wins!,0:04,5,0,0,0,0,0,0
+240307-211430,list,gpt-4,ai21.j2-ultra-v1,gpt-4 X wins!,0:03,6,0,1,0,0,0,0
+240307-211436,list,gpt-4,anthropic.claude-v2:1,gpt-4 X wins!,0:04,5,0,0,0,0,0,0
+240307-211442,list,gpt-4,anthropic.claude-v2:1,gpt-4 X wins!,0:03,5,0,0,0,0,0,0
+240307-211452,list,gpt-4,anthropic.claude-v2:1,gpt-4 X wins!,0:08,6,0,0,0,0,0,1
+240307-211459,list,gpt-4,anthropic.claude-v2:1,gpt-4 X wins!,0:04,5,0,0,0,0,0,0
+240307-211515,list,gpt-4,anthropic.claude-v2:1,gpt-4 X wins!,0:13,6,0,0,0,0,0,1
+240307-211526,list,gpt-4,anthropic.claude-v2:1,gpt-4 X wins!,0:09,7,0,0,0,0,0,2
+240307-211534,list,gpt-4,anthropic.claude-v2:1,gpt-4 X wins!,0:05,5,0,0,0,0,0,0
+240307-211549,list,gpt-4,anthropic.claude-v2:1,gpt-4 X wins!,0:12,8,0,0,0,0,0,3
+240307-211557,list,gpt-4,anthropic.claude-v2:1,gpt-4 X wins!,0:06,8,0,0,0,0,0,1
+240307-211603,list,gpt-4,anthropic.claude-v2:1,gpt-4 X wins!,0:04,5,0,0,0,0,0,0
+240308-175002,list,gpt-4,gemini-pro,gpt-4 X wins!,0:08,9,0,0,0,0,0,0
+240308-175013,list,gpt-4,gemini-pro,gpt-4 X wins!,0:08,5,0,0,0,0,0,0
+240308-175019,list,gpt-4,gemini-pro,gpt-4 X wins!,0:04,5,0,0,0,0,0,0
+240308-175031,list,gpt-4,gemini-pro,gpt-4 X wins!,0:09,9,2,0,0,0,0,0
+240308-175038,list,gpt-4,gemini-pro,gpt-4 X wins!,0:04,5,0,0,0,0,0,0
+240308-175045,list,gpt-4,gemini-pro,gpt-4 X wins!,0:05,5,0,0,0,0,0,0
+240308-175056,list,gpt-4,gemini-pro,gpt-4 X wins!,0:09,9,0,0,0,0,0,0
+240308-175108,list,gpt-4,gemini-pro,gpt-4 X wins!,0:09,9,0,0,0,0,0,0
+240308-175115,list,gpt-4,gemini-pro,gpt-4 X wins!,0:04,5,0,0,0,0,0,0
+240308-175122,list,gpt-4,gemini-pro,gpt-4 X wins!,0:04,5,0,0,0,0,0,0
+240307-211717,list,gpt-4,gpt-3.5-turbo,Cancelled,0:17,21,17,0,0,0,0,0
+240307-211609,list,gpt-4,gpt-3.5-turbo,gpt-4 X wins!,0:03,5,0,0,0,0,0,0
+240307-211616,list,gpt-4,gpt-3.5-turbo,gpt-4 X wins!,0:04,5,0,0,0,0,0,0
+240307-211623,list,gpt-4,gpt-3.5-turbo,gpt-4 X wins!,0:05,5,0,0,0,0,0,0
+240307-211629,list,gpt-4,gpt-3.5-turbo,gpt-4 X wins!,0:03,5,0,0,0,0,0,0
+240307-211634,list,gpt-4,gpt-3.5-turbo,gpt-4 X wins!,0:02,5,0,0,0,0,0,0
+240307-211641,list,gpt-4,gpt-3.5-turbo,gpt-4 X wins!,0:05,7,0,0,0,0,0,0
+240307-211647,list,gpt-4,gpt-3.5-turbo,gpt-4 X wins!,0:04,5,0,0,0,0,0,0
+240307-211653,list,gpt-4,gpt-3.5-turbo,gpt-4 X wins!,0:03,5,0,0,0,0,0,0
+240307-211658,list,gpt-4,gpt-3.5-turbo,gpt-4 X wins!,0:03,5,0,0,0,0,0,0
+240307-211736,list,gpt-4,gpt-4,Cancelled,0:16,21,17,0,0,0,0,0
+240307-211758,list,gpt-4,gpt-4,Cancelled,0:20,21,17,0,0,0,0,0
+240307-211818,list,gpt-4,gpt-4,Cancelled,0:18,21,17,0,0,0,0,0
+240307-211902,list,gpt-4,gpt-4,Cancelled,0:20,21,17,0,0,0,0,0
+240307-211923,list,gpt-4,gpt-4,Cancelled,0:19,21,17,0,0,0,0,0
+240307-211945,list,gpt-4,gpt-4,Cancelled,0:19,21,17,0,0,0,0,0
+240307-212007,list,gpt-4,gpt-4,Cancelled,0:19,21,17,0,0,0,0,0
+240307-212033,list,gpt-4,gpt-4,Cancelled,0:16,21,17,0,0,0,0,0
+240307-211840,list,gpt-4,gpt-4,gpt-4 X wins!,0:19,19,12,0,0,0,0,0
+240307-212014,list,gpt-4,gpt-4,gpt-4 X wins!,0:05,7,0,0,0,0,0,0
+240307-212326,list,gpt-4,meta.llama2-70b-chat-v1,gpt-4 X wins!,0:05,5,0,0,0,0,0,0
+240307-212333,list,gpt-4,meta.llama2-70b-chat-v1,gpt-4 X wins!,0:05,5,0,0,0,0,0,0
+240307-212339,list,gpt-4,meta.llama2-70b-chat-v1,gpt-4 X wins!,0:04,5,0,0,0,0,0,0
+240307-212346,list,gpt-4,meta.llama2-70b-chat-v1,gpt-4 X wins!,0:04,5,0,0,0,0,0,0
+240307-212353,list,gpt-4,meta.llama2-70b-chat-v1,gpt-4 X wins!,0:05,5,0,0,0,0,0,0
+240307-212400,list,gpt-4,meta.llama2-70b-chat-v1,gpt-4 X wins!,0:04,5,0,0,0,0,0,0
+240307-212406,list,gpt-4,meta.llama2-70b-chat-v1,gpt-4 X wins!,0:04,5,0,0,0,0,0,0
+240307-212413,list,gpt-4,meta.llama2-70b-chat-v1,gpt-4 X wins!,0:04,5,0,0,0,0,0,0
+240307-212420,list,gpt-4,meta.llama2-70b-chat-v1,gpt-4 X wins!,0:04,5,0,0,0,0,0,0
+240307-212426,list,gpt-4,meta.llama2-70b-chat-v1,gpt-4 X wins!,0:04,5,0,0,0,0,0,0
+240307-212305,list,gpt-4,mistral-large-latest,Draw,0:22,9,0,0,0,0,0,0
+240307-212047,list,gpt-4,mistral-large-latest,gpt-4 X wins!,0:12,5,0,0,0,0,0,0
+240307-212101,list,gpt-4,mistral-large-latest,gpt-4 X wins!,0:11,5,0,0,0,0,0,0
+240307-212157,list,gpt-4,mistral-large-latest,gpt-4 X wins!,0:12,5,0,0,0,0,0,0
+240307-212211,list,gpt-4,mistral-large-latest,gpt-4 X wins!,0:11,5,0,0,0,0,0,0
+240307-212225,list,gpt-4,mistral-large-latest,gpt-4 X wins!,0:12,5,0,0,0,0,0,0
+240307-212240,list,gpt-4,mistral-large-latest,gpt-4 X wins!,0:12,5,0,0,0,0,0,0
+240307-212318,list,gpt-4,mistral-large-latest,gpt-4 X wins!,0:11,5,0,0,0,0,0,0
+240307-212125,list,gpt-4,mistral-large-latest,mistral-large-latest O wins!,0:22,8,0,0,0,0,0,0
+240307-212143,list,gpt-4,mistral-large-latest,mistral-large-latest O wins!,0:16,6,0,0,0,0,0,0
+240307-215941,list,meta.llama2-70b-chat-v1,ai21.j2-ultra-v1,ai21.j2-ultra-v1 O wins!,0:05,8,1,1,0,0,0,0
+240307-215822,list,meta.llama2-70b-chat-v1,ai21.j2-ultra-v1,Cancelled,0:19,21,13,2,0,0,0,0
+240307-215838,list,meta.llama2-70b-chat-v1,ai21.j2-ultra-v1,Cancelled,0:14,21,0,16,0,0,0,0
+240307-215857,list,meta.llama2-70b-chat-v1,ai21.j2-ultra-v1,Cancelled,0:17,21,10,2,0,0,0,1
+240307-215912,list,meta.llama2-70b-chat-v1,ai21.j2-ultra-v1,Cancelled,0:13,21,0,13,0,0,0,1
+240307-215933,list,meta.llama2-70b-chat-v1,ai21.j2-ultra-v1,Cancelled,0:18,21,11,2,0,0,0,0
+240307-220005,list,meta.llama2-70b-chat-v1,ai21.j2-ultra-v1,Cancelled,0:16,21,5,6,0,0,0,2
+240307-215747,list,meta.llama2-70b-chat-v1,ai21.j2-ultra-v1,meta.llama2-70b-chat-v1 X wins!,0:09,13,0,5,0,0,0,1
+240307-215800,list,meta.llama2-70b-chat-v1,ai21.j2-ultra-v1,meta.llama2-70b-chat-v1 X wins!,0:10,16,1,4,0,1,0,1
+240307-215947,list,meta.llama2-70b-chat-v1,ai21.j2-ultra-v1,meta.llama2-70b-chat-v1 X wins!,0:03,5,0,0,0,0,0,0
+240307-220243,list,meta.llama2-70b-chat-v1,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:07,6,0,0,0,0,0,0
+240307-220101,list,meta.llama2-70b-chat-v1,anthropic.claude-v2:1,Cancelled,0:42,21,13,0,0,0,0,0
+240307-220016,list,meta.llama2-70b-chat-v1,anthropic.claude-v2:1,meta.llama2-70b-chat-v1 X wins!,0:08,7,0,0,0,0,0,0
+240307-220115,list,meta.llama2-70b-chat-v1,anthropic.claude-v2:1,meta.llama2-70b-chat-v1 X wins!,0:12,7,0,0,0,0,0,0
+240307-220138,list,meta.llama2-70b-chat-v1,anthropic.claude-v2:1,meta.llama2-70b-chat-v1 X wins!,0:21,11,4,0,0,0,0,0
+240307-220153,list,meta.llama2-70b-chat-v1,anthropic.claude-v2:1,meta.llama2-70b-chat-v1 X wins!,0:12,7,0,0,0,0,0,0
+240307-220204,list,meta.llama2-70b-chat-v1,anthropic.claude-v2:1,meta.llama2-70b-chat-v1 X wins!,0:09,7,0,0,0,0,0,0
+240307-220216,list,meta.llama2-70b-chat-v1,anthropic.claude-v2:1,meta.llama2-70b-chat-v1 X wins!,0:09,7,0,0,0,0,0,0
+240307-220224,list,meta.llama2-70b-chat-v1,anthropic.claude-v2:1,meta.llama2-70b-chat-v1 X wins!,0:06,5,0,0,0,0,0,0
+240307-220233,list,meta.llama2-70b-chat-v1,anthropic.claude-v2:1,meta.llama2-70b-chat-v1 X wins!,0:07,5,0,0,0,0,0,0
+240308-175639,list,meta.llama2-70b-chat-v1,gemini-pro,Cancelled,0:22,21,13,0,0,0,0,0
+240308-175727,list,meta.llama2-70b-chat-v1,gemini-pro,Cancelled,0:22,21,13,0,0,0,0,0
+240308-175808,list,meta.llama2-70b-chat-v1,gemini-pro,Cancelled,0:28,21,13,0,0,0,0,0
+240308-175833,list,meta.llama2-70b-chat-v1,gemini-pro,Cancelled,0:23,21,12,1,0,0,0,0
+240308-175605,list,meta.llama2-70b-chat-v1,gemini-pro,gemini-pro O wins!,0:11,8,0,0,0,0,0,0
+240308-175702,list,meta.llama2-70b-chat-v1,gemini-pro,gemini-pro O wins!,0:08,8,0,0,0,0,0,0
+240308-175737,list,meta.llama2-70b-chat-v1,gemini-pro,gemini-pro O wins!,0:08,8,0,0,0,0,0,0
+240308-175850,list,meta.llama2-70b-chat-v1,gemini-pro,gemini-pro O wins!,0:14,10,1,1,0,0,0,0
+240308-175614,list,meta.llama2-70b-chat-v1,gemini-pro,meta.llama2-70b-chat-v1 X wins!,0:07,7,0,0,0,0,0,0
+240308-175652,list,meta.llama2-70b-chat-v1,gemini-pro,meta.llama2-70b-chat-v1 X wins!,0:11,7,0,0,0,0,0,0
+240307-220412,list,meta.llama2-70b-chat-v1,gpt-3.5-turbo,Cancelled,0:19,21,11,2,0,0,0,0
+240307-220351,list,meta.llama2-70b-chat-v1,gpt-3.5-turbo,gpt-3.5-turbo O wins!,0:05,8,0,0,0,0,0,0
+240307-220252,list,meta.llama2-70b-chat-v1,gpt-3.5-turbo,meta.llama2-70b-chat-v1 X wins!,0:06,7,0,0,0,0,0,0
+240307-220258,list,meta.llama2-70b-chat-v1,gpt-3.5-turbo,meta.llama2-70b-chat-v1 X wins!,0:04,5,0,0,0,0,0,0
+240307-220303,list,meta.llama2-70b-chat-v1,gpt-3.5-turbo,meta.llama2-70b-chat-v1 X wins!,0:03,5,0,0,0,0,0,0
+240307-220312,list,meta.llama2-70b-chat-v1,gpt-3.5-turbo,meta.llama2-70b-chat-v1 X wins!,0:06,7,0,0,0,0,0,0
+240307-220321,list,meta.llama2-70b-chat-v1,gpt-3.5-turbo,meta.llama2-70b-chat-v1 X wins!,0:07,7,0,0,0,0,0,0
+240307-220328,list,meta.llama2-70b-chat-v1,gpt-3.5-turbo,meta.llama2-70b-chat-v1 X wins!,0:05,7,0,0,0,0,0,0
+240307-220336,list,meta.llama2-70b-chat-v1,gpt-3.5-turbo,meta.llama2-70b-chat-v1 X wins!,0:05,7,0,0,0,0,0,0
+240307-220343,list,meta.llama2-70b-chat-v1,gpt-3.5-turbo,meta.llama2-70b-chat-v1 X wins!,0:05,7,0,0,0,0,0,0
+240307-220549,list,meta.llama2-70b-chat-v1,gpt-4,Cancelled,0:18,21,13,0,0,0,0,0
+240307-220459,list,meta.llama2-70b-chat-v1,gpt-4,gpt-4 O wins!,0:07,8,0,0,0,0,0,0
+240307-220423,list,meta.llama2-70b-chat-v1,gpt-4,meta.llama2-70b-chat-v1 X wins!,0:08,9,0,0,0,0,0,0
+240307-220431,list,meta.llama2-70b-chat-v1,gpt-4,meta.llama2-70b-chat-v1 X wins!,0:06,7,0,0,0,0,0,0
+240307-220440,list,meta.llama2-70b-chat-v1,gpt-4,meta.llama2-70b-chat-v1 X wins!,0:07,8,0,1,0,0,0,0
+240307-220449,list,meta.llama2-70b-chat-v1,gpt-4,meta.llama2-70b-chat-v1 X wins!,0:06,7,0,0,0,0,0,0
+240307-220507,list,meta.llama2-70b-chat-v1,gpt-4,meta.llama2-70b-chat-v1 X wins!,0:06,7,0,0,0,0,0,0
+240307-220514,list,meta.llama2-70b-chat-v1,gpt-4,meta.llama2-70b-chat-v1 X wins!,0:04,5,0,0,0,0,0,0
+240307-220520,list,meta.llama2-70b-chat-v1,gpt-4,meta.llama2-70b-chat-v1 X wins!,0:04,5,0,0,0,0,0,0
+240307-220528,list,meta.llama2-70b-chat-v1,gpt-4,meta.llama2-70b-chat-v1 X wins!,0:06,7,0,0,0,0,0,0
+240307-220944,list,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1,Cancelled,0:20,21,0,14,0,0,0,0
+240307-221015,list,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1,Cancelled,0:21,21,0,14,0,0,0,0
+240307-221101,list,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1,Cancelled,0:20,21,0,14,0,0,0,0
+240307-221123,list,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1,Cancelled,0:19,21,0,16,0,0,0,0
+240307-221144,list,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1,Cancelled,0:19,21,0,14,0,0,0,0
+240307-221216,list,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1,Cancelled,0:19,21,0,14,0,0,0,0
+240307-221238,list,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1,Cancelled,0:20,21,0,14,0,0,0,0
+240307-220952,list,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:06,6,0,0,0,0,0,0
+240307-221039,list,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:21,21,5,10,0,0,0,0
+240307-221154,list,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:07,8,0,2,0,0,0,0
+240307-220628,list,meta.llama2-70b-chat-v1,mistral-large-latest,Cancelled,0:36,21,13,0,0,0,0,0
+240307-220705,list,meta.llama2-70b-chat-v1,mistral-large-latest,Cancelled,0:35,21,13,0,0,0,0,0
+240307-220744,list,meta.llama2-70b-chat-v1,mistral-large-latest,Cancelled,0:36,21,13,0,0,0,0,0
+240307-220757,list,meta.llama2-70b-chat-v1,mistral-large-latest,meta.llama2-70b-chat-v1 X wins!,0:11,5,0,0,0,0,0,0
+240307-220811,list,meta.llama2-70b-chat-v1,mistral-large-latest,meta.llama2-70b-chat-v1 X wins!,0:11,5,0,0,0,0,0,0
+240307-220825,list,meta.llama2-70b-chat-v1,mistral-large-latest,meta.llama2-70b-chat-v1 X wins!,0:11,5,0,0,0,0,0,0
+240307-220840,list,meta.llama2-70b-chat-v1,mistral-large-latest,meta.llama2-70b-chat-v1 X wins!,0:12,5,0,0,0,0,0,0
+240307-220854,list,meta.llama2-70b-chat-v1,mistral-large-latest,meta.llama2-70b-chat-v1 X wins!,0:11,5,0,0,0,0,0,0
+240307-220908,list,meta.llama2-70b-chat-v1,mistral-large-latest,meta.llama2-70b-chat-v1 X wins!,0:11,5,0,0,0,0,0,0
+240307-220921,list,meta.llama2-70b-chat-v1,mistral-large-latest,meta.llama2-70b-chat-v1 X wins!,0:11,5,0,0,0,0,0,0
+240307-212534,list,mistral-large-latest,ai21.j2-ultra-v1,ai21.j2-ultra-v1 O wins!,0:15,6,0,0,0,0,0,0
+240307-212613,list,mistral-large-latest,ai21.j2-ultra-v1,ai21.j2-ultra-v1 O wins!,0:15,6,0,0,0,0,0,0
+240307-212711,list,mistral-large-latest,ai21.j2-ultra-v1,Cancelled,0:28,21,0,14,0,0,0,0
+240307-212454,list,mistral-large-latest,ai21.j2-ultra-v1,mistral-large-latest X wins!,0:25,10,0,1,0,0,0,0
+240307-212517,list,mistral-large-latest,ai21.j2-ultra-v1,mistral-large-latest X wins!,0:20,7,0,0,0,0,0,0
+240307-212556,list,mistral-large-latest,ai21.j2-ultra-v1,mistral-large-latest X wins!,0:19,7,0,0,0,0,0,0
+240307-212641,list,mistral-large-latest,ai21.j2-ultra-v1,mistral-large-latest X wins!,0:25,16,0,9,0,0,0,0
+240307-212734,list,mistral-large-latest,ai21.j2-ultra-v1,mistral-large-latest X wins!,0:20,9,0,2,0,0,0,0
+240307-212756,list,mistral-large-latest,ai21.j2-ultra-v1,mistral-large-latest X wins!,0:20,7,0,0,0,0,0,0
+240307-212818,list,mistral-large-latest,ai21.j2-ultra-v1,mistral-large-latest X wins!,0:20,8,0,1,0,0,0,0
+240307-212847,list,mistral-large-latest,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:26,8,0,0,0,0,0,0
+240307-212938,list,mistral-large-latest,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:49,20,0,0,0,0,0,12
+240307-213045,list,mistral-large-latest,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:25,12,0,0,0,0,0,4
+240307-213115,list,mistral-large-latest,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:27,10,0,0,0,0,0,2
+240307-213216,list,mistral-large-latest,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:27,8,0,0,0,0,0,0
+240307-213256,list,mistral-large-latest,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:38,8,0,0,0,0,0,0
+240307-213416,list,mistral-large-latest,anthropic.claude-v2:1,anthropic.claude-v2:1 O wins!,0:34,8,0,0,0,0,0,0
+240307-213340,list,mistral-large-latest,anthropic.claude-v2:1,Draw,0:41,11,0,0,0,0,0,2
+240307-213018,list,mistral-large-latest,anthropic.claude-v2:1,mistral-large-latest X wins!,0:37,13,0,0,0,0,0,6
+240307-213146,list,mistral-large-latest,anthropic.claude-v2:1,mistral-large-latest X wins!,0:29,10,0,0,0,0,0,3
+240308-175246,list,mistral-large-latest,gemini-pro,gemini-pro O wins!,0:26,8,0,0,0,0,0,0
+240308-175354,list,mistral-large-latest,gemini-pro,gemini-pro O wins!,0:17,6,0,0,0,0,0,0
+240308-175147,list,mistral-large-latest,gemini-pro,mistral-large-latest X wins!,0:23,7,0,0,0,0,0,0
+240308-175217,list,mistral-large-latest,gemini-pro,mistral-large-latest X wins!,0:27,9,0,0,0,0,0,0
+240308-175310,list,mistral-large-latest,gemini-pro,mistral-large-latest X wins!,0:22,7,0,0,0,0,0,0
+240308-175334,list,mistral-large-latest,gemini-pro,mistral-large-latest X wins!,0:21,7,0,0,0,0,0,0
+240308-175418,list,mistral-large-latest,gemini-pro,mistral-large-latest X wins!,0:22,7,0,0,0,0,0,0
+240308-175454,list,mistral-large-latest,gemini-pro,mistral-large-latest X wins!,0:34,9,0,0,0,0,0,0
+240308-175518,list,mistral-large-latest,gemini-pro,mistral-large-latest X wins!,0:22,7,0,0,0,0,0,0
+240308-175552,list,mistral-large-latest,gemini-pro,mistral-large-latest X wins!,0:31,9,0,0,0,0,0,0
+240307-213444,list,mistral-large-latest,gpt-3.5-turbo,Draw,0:26,10,0,1,0,0,0,0
+240307-213512,list,mistral-large-latest,gpt-3.5-turbo,Draw,0:26,11,0,2,0,0,0,0
+240307-213740,list,mistral-large-latest,gpt-3.5-turbo,gpt-3.5-turbo O wins!,0:20,9,0,1,0,0,0,0
+240307-213535,list,mistral-large-latest,gpt-3.5-turbo,mistral-large-latest X wins!,0:21,7,0,0,0,0,0,0
+240307-213603,list,mistral-large-latest,gpt-3.5-turbo,mistral-large-latest X wins!,0:25,9,0,0,0,0,0,0
+240307-213629,list,mistral-large-latest,gpt-3.5-turbo,mistral-large-latest X wins!,0:24,9,0,0,0,0,0,0
+240307-213651,list,mistral-large-latest,gpt-3.5-turbo,mistral-large-latest X wins!,0:19,7,0,0,0,0,0,0
+240307-213717,list,mistral-large-latest,gpt-3.5-turbo,mistral-large-latest X wins!,0:24,9,0,0,0,0,0,0
+240307-213803,list,mistral-large-latest,gpt-3.5-turbo,mistral-large-latest X wins!,0:20,7,0,0,0,0,0,0
+240307-213820,list,mistral-large-latest,gpt-3.5-turbo,mistral-large-latest X wins!,0:14,5,0,0,0,0,0,0
+240307-213849,list,mistral-large-latest,gpt-4,Draw,0:26,9,0,0,0,0,0,0
+240307-214007,list,mistral-large-latest,gpt-4,Draw,0:26,9,0,0,0,0,0,0
+240307-213916,list,mistral-large-latest,gpt-4,mistral-large-latest X wins!,0:25,9,0,0,0,0,0,0
+240307-213939,list,mistral-large-latest,gpt-4,mistral-large-latest X wins!,0:20,7,0,0,0,0,0,0
+240307-214030,list,mistral-large-latest,gpt-4,mistral-large-latest X wins!,0:21,7,0,0,0,0,0,0
+240307-214059,list,mistral-large-latest,gpt-4,mistral-large-latest X wins!,0:26,9,0,0,0,0,0,0
+240307-214128,list,mistral-large-latest,gpt-4,mistral-large-latest X wins!,0:26,9,0,0,0,0,0,0
+240307-214156,list,mistral-large-latest,gpt-4,mistral-large-latest X wins!,0:26,9,0,0,0,0,0,0
+240307-214224,list,mistral-large-latest,gpt-4,mistral-large-latest X wins!,0:26,9,0,0,0,0,0,0
+240307-214253,list,mistral-large-latest,gpt-4,mistral-large-latest X wins!,0:26,9,0,0,0,0,0,0
+240307-215426,list,mistral-large-latest,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:17,6,0,0,0,0,0,0
+240307-215444,list,mistral-large-latest,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:16,6,0,0,0,0,0,0
+240307-215503,list,mistral-large-latest,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:16,6,0,0,0,0,0,0
+240307-215527,list,mistral-large-latest,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:21,8,0,0,0,0,0,0
+240307-215551,list,mistral-large-latest,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:21,8,0,0,0,0,0,0
+240307-215610,list,mistral-large-latest,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:17,6,0,0,0,0,0,0
+240307-215629,list,mistral-large-latest,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:16,6,0,0,0,0,0,0
+240307-215648,list,mistral-large-latest,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:16,6,0,0,0,0,0,0
+240307-215712,list,mistral-large-latest,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:22,8,0,0,0,0,0,0
+240307-215736,list,mistral-large-latest,meta.llama2-70b-chat-v1,meta.llama2-70b-chat-v1 O wins!,0:21,8,0,0,0,0,0,0
+240307-214457,list,mistral-large-latest,mistral-large-latest,Cancelled,1:36,21,0,0,0,0,0,18
+240307-214635,list,mistral-large-latest,mistral-large-latest,Cancelled,1:35,21,0,0,0,0,0,18
+240307-214741,list,mistral-large-latest,mistral-large-latest,Draw,1:04,14,0,0,0,0,0,5
+240307-214834,list,mistral-large-latest,mistral-large-latest,Draw,0:50,11,0,0,0,0,0,2
+240307-214945,list,mistral-large-latest,mistral-large-latest,Draw,1:08,15,0,0,0,0,0,6
+240307-215259,list,mistral-large-latest,mistral-large-latest,Draw,0:59,13,0,0,0,0,0,4
+240307-215114,list,mistral-large-latest,mistral-large-latest,mistral-large-latest O wins!,1:27,19,0,0,0,0,0,13
+240307-215406,list,mistral-large-latest,mistral-large-latest,mistral-large-latest O wins!,1:04,14,0,0,0,0,0,8
+240307-214318,list,mistral-large-latest,mistral-large-latest,mistral-large-latest X wins!,0:22,5,0,0,0,0,0,0
+240307-215157,list,mistral-large-latest,mistral-large-latest,mistral-large-latest X wins!,0:41,9,0,0,0,0,0,2

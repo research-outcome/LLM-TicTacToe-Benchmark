@@ -1,0 +1,2 @@
+GameTime,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Player1OutOfBounds, Player2OutOfBounds 
+240308-091300,illustration,mistral-large-latest,gpt-4,mistral-large-latest X wins!,01:04,15,10,0,0,0,0,0

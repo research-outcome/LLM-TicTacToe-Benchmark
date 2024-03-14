@@ -1,0 +1,51 @@
+Game #604
+Prompt Type: list
+Player 1: gpt-3.5-turbo
+Player 2: anthropic.claude-v2:1
+Date Time: 240307-210129
+Game Duration: 00:10
+Total Moves: 10
+Player 1 Already Taken Moves: 1
+Player 2 Already Taken Moves: 0
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 0
+Player 2 Out of Bounds Moves: 0
+Result: gpt-3.5-turbo X wins!
+Game Progress: 
+X|.|.
+.|.|.
+.|.|.
+
+X|O|.
+.|.|.
+.|.|.
+
+X|O|.
+.|X|.
+.|.|.
+
+X|O|.
+.|X|.
+.|.|O
+
+X|O|.
+.|X|.
+X|.|O
+
+X|O|.
+O|X|.
+X|.|O
+
+X|O|.
+O|X|X
+X|.|O
+
+X|O|.
+O|X|X
+X|O|O
+
+X|O|X
+O|X|X
+X|O|O
+

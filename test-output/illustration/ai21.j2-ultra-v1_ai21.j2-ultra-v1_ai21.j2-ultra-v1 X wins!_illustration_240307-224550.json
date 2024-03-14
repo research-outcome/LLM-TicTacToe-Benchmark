@@ -1,0 +1,187 @@
+{
+    "datetime": "240307-224550",
+    "player1": "ai21.j2-ultra-v1",
+    "player2": "ai21.j2-ultra-v1",
+    "totalMoves": 17,
+    "player1MovesAlreadyTaken": 6,
+    "player2MovesAlreadyTaken": 4,
+    "player1MovesOutOfBounds": 0,
+    "player2MovesOutOfBounds": 2,
+    "player1MovesInvalidFormat": 0,
+    "player2MovesInvalidFormat": 0,
+    "result": "ai21.j2-ultra-v1 X wins!",
+    "gameDuration": "00:09",
+    "promptType": "illustration",
+    "moves": [
+        {
+            "no": 1,
+            "player": 1,
+            "row": 1,
+            "col": 3,
+            "valid": "Y",
+            "promptType": "illustration",
+            "currentStatus": "... \n... \n... \n",
+            "response": "\"\\n{\\\"row\\\": 1, \\\"column\\\": 3}\""
+        },
+        {
+            "no": 2,
+            "player": 2,
+            "row": 1,
+            "col": 3,
+            "valid": "Already Taken",
+            "promptType": "illustration",
+            "currentStatus": "..X \n... \n... \n",
+            "response": "\"\\n{\\\"row\\\": 1, \\\"column\\\": 3}\""
+        },
+        {
+            "no": 3,
+            "player": 2,
+            "row": 5,
+            "col": 3,
+            "valid": "Out of Bounds",
+            "promptType": "illustration",
+            "currentStatus": "..X \n... \n... \n",
+            "response": "\"\\n{\\\"row\\\": 4, \\\"column\\\": 2}\""
+        },
+        {
+            "no": 4,
+            "player": 2,
+            "row": 2,
+            "col": 1,
+            "valid": "Y",
+            "promptType": "illustration",
+            "currentStatus": "..X \n... \n... \n",
+            "response": "\"\\n{\\\"row\\\": 2, \\\"column\\\": 1}\""
+        },
+        {
+            "no": 5,
+            "player": 1,
+            "row": 1,
+            "col": 3,
+            "valid": "Already Taken",
+            "promptType": "illustration",
+            "currentStatus": "..X \nO.. \n... \n",
+            "response": "\"\\n{\\\"row\\\":1,\\\"column\\\":3}\""
+        },
+        {
+            "no": 6,
+            "player": 1,
+            "row": 1,
+            "col": 2,
+            "valid": "Y",
+            "promptType": "illustration",
+            "currentStatus": "..X \nO.. \n... \n",
+            "response": "\"\\n{\\\"row\\\": 1, \\\"column\\\": 2}\""
+        },
+        {
+            "no": 7,
+            "player": 2,
+            "row": 2,
+            "col": 5,
+            "valid": "Out of Bounds",
+            "promptType": "illustration",
+            "currentStatus": ".XX \nO.. \n... \n",
+            "response": "\"\\n{\\\"row\\\": 1, \\\"column\\\": 4}\""
+        },
+        {
+            "no": 8,
+            "player": 2,
+            "row": 2,
+            "col": 1,
+            "valid": "Already Taken",
+            "promptType": "illustration",
+            "currentStatus": ".XX \nO.. \n... \n",
+            "response": "\"\\n{\\\"row\\\": 2, \\\"column\\\": 1}\""
+        },
+        {
+            "no": 9,
+            "player": 2,
+            "row": 2,
+            "col": 1,
+            "valid": "Already Taken",
+            "promptType": "illustration",
+            "currentStatus": ".XX \nO.. \n... \n",
+            "response": "\"\\n{\\\"row\\\": 2, \\\"column\\\": 1}\""
+        },
+        {
+            "no": 10,
+            "player": 2,
+            "row": 1,
+            "col": 3,
+            "valid": "Already Taken",
+            "promptType": "illustration",
+            "currentStatus": ".XX \nO.. \n... \n",
+            "response": "\"\\n{\\\"row\\\": 1, \\\"column\\\": 3}\""
+        },
+        {
+            "no": 11,
+            "player": 2,
+            "row": 3,
+            "col": 1,
+            "valid": "Y",
+            "promptType": "illustration",
+            "currentStatus": ".XX \nO.. \n... \n",
+            "response": "\"\\n{\\\"row\\\": 3, \\\"column\\\": 1}\""
+        },
+        {
+            "no": 12,
+            "player": 1,
+            "row": 1,
+            "col": 2,
+            "valid": "Already Taken",
+            "promptType": "illustration",
+            "currentStatus": ".XX \nO.. \nO.. \n",
+            "response": "\"\\n{\\\"row\\\": 1, \\\"column\\\": 2}\""
+        },
+        {
+            "no": 13,
+            "player": 1,
+            "row": 1,
+            "col": 2,
+            "valid": "Already Taken",
+            "promptType": "illustration",
+            "currentStatus": ".XX \nO.. \nO.. \n",
+            "response": "\"\\n{\\\"row\\\": 1, \\\"column\\\": 2}\""
+        },
+        {
+            "no": 14,
+            "player": 1,
+            "row": 2,
+            "col": 1,
+            "valid": "Already Taken",
+            "promptType": "illustration",
+            "currentStatus": ".XX \nO.. \nO.. \n",
+            "response": "\"\\n{\\\"row\\\":2, \\\"column\\\":1}\""
+        },
+        {
+            "no": 15,
+            "player": 1,
+            "row": 2,
+            "col": 1,
+            "valid": "Already Taken",
+            "promptType": "illustration",
+            "currentStatus": ".XX \nO.. \nO.. \n",
+            "response": "\"\\n{\\\"row\\\": 2, \\\"column\\\": 1}\""
+        },
+        {
+            "no": 16,
+            "player": 1,
+            "row": 2,
+            "col": 1,
+            "valid": "Already Taken",
+            "promptType": "illustration",
+            "currentStatus": ".XX \nO.. \nO.. \n",
+            "response": "\"\\n{\\\"row\\\": 2, \\\"column\\\": 1}\""
+        },
+        {
+            "no": 17,
+            "player": 1,
+            "row": 1,
+            "col": 1,
+            "valid": "Y",
+            "promptType": "illustration",
+            "currentStatus": ".XX \nO.. \nO.. \n",
+            "response": "\"\\n{\\\"row\\\": 1, \\\"column\\\": 1}\""
+        }
+    ]
+}

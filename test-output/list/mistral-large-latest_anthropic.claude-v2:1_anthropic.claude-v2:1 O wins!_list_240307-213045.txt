@@ -1,0 +1,47 @@
+Game #725
+Prompt Type: list
+Player 1: mistral-large-latest
+Player 2: anthropic.claude-v2:1
+Date Time: 240307-213045
+Game Duration: 00:25
+Total Moves: 12
+Player 1 Already Taken Moves: 0
+Player 2 Already Taken Moves: 0
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 0
+Player 2 Out of Bounds Moves: 4
+Result: anthropic.claude-v2:1 O wins!
+Game Progress: 
+X|.|.
+.|.|.
+.|.|.
+
+X|.|.
+.|O|.
+.|.|.
+
+X|X|.
+.|O|.
+.|.|.
+
+X|X|.
+.|O|.
+O|.|.
+
+X|X|.
+X|O|.
+O|.|.
+
+X|X|.
+X|O|.
+O|.|O
+
+X|X|.
+X|O|.
+O|X|O
+
+X|X|O
+X|O|.
+O|X|O
+

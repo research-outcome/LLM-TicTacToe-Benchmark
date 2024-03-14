@@ -1,0 +1,87 @@
+{
+    "datetime": "240308-084611",
+    "player1": "mistral-large-latest",
+    "player2": "ai21.j2-ultra-v1",
+    "totalMoves": 7,
+    "player1MovesAlreadyTaken": 0,
+    "player2MovesAlreadyTaken": 2,
+    "player1MovesOutOfBounds": 0,
+    "player2MovesOutOfBounds": 0,
+    "player1MovesInvalidFormat": 0,
+    "player2MovesInvalidFormat": 0,
+    "result": "mistral-large-latest X wins!",
+    "gameDuration": "00:16",
+    "promptType": "illustration",
+    "moves": [
+        {
+            "no": 1,
+            "player": 1,
+            "row": 1,
+            "col": 1,
+            "valid": "Y",
+            "promptType": "illustration",
+            "currentStatus": "... \n... \n... \n",
+            "response": "{\"row\": 1, \"column\": 1}"
+        },
+        {
+            "no": 2,
+            "player": 2,
+            "row": 1,
+            "col": 1,
+            "valid": "Already Taken",
+            "promptType": "illustration",
+            "currentStatus": "X.. \n... \n... \n",
+            "response": "\"\\n{\\\"row\\\": 1, \\\"column\\\": 1}\""
+        },
+        {
+            "no": 3,
+            "player": 2,
+            "row": 1,
+            "col": 3,
+            "valid": "Y",
+            "promptType": "illustration",
+            "currentStatus": "X.. \n... \n... \n",
+            "response": "\"\\n{\\\"row\\\": 1, \\\"column\\\": 3}\""
+        },
+        {
+            "no": 4,
+            "player": 1,
+            "row": 2,
+            "col": 1,
+            "valid": "Y",
+            "promptType": "illustration",
+            "currentStatus": "X.O \n... \n... \n",
+            "response": "{\"row\": 2, \"column\": 1}"
+        },
+        {
+            "no": 5,
+            "player": 2,
+            "row": 2,
+            "col": 1,
+            "valid": "Already Taken",
+            "promptType": "illustration",
+            "currentStatus": "X.O \nX.. \n... \n",
+            "response": "\"\\n{\\\"row\\\": 2, \\\"column\\\": 1}\""
+        },
+        {
+            "no": 6,
+            "player": 2,
+            "row": 2,
+            "col": 3,
+            "valid": "Y",
+            "promptType": "illustration",
+            "currentStatus": "X.O \nX.. \n... \n",
+            "response": "\"\\n{\\\"row\\\": 2, \\\"column\\\": 3}\""
+        },
+        {
+            "no": 7,
+            "player": 1,
+            "row": 3,
+            "col": 1,
+            "valid": "Y",
+            "promptType": "illustration",
+            "currentStatus": "X.O \nX.O \n... \n",
+            "response": "{\"row\": 3, \"column\": 1}"
+        }
+    ]
+}

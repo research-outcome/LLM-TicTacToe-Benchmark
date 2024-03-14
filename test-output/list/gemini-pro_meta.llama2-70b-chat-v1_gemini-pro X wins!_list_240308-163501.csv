@@ -1,0 +1,2 @@
+GameTime,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Player1OutOfBounds, Player2OutOfBounds 
+240308-163501,list,gemini-pro,meta.llama2-70b-chat-v1,gemini-pro X wins!,00:15,12,0,3,0,0,0,0

@@ -1,0 +1,51 @@
+Game #1249
+Prompt Type: list
+Player 1: gemini-pro
+Player 2: meta.llama2-70b-chat-v1
+Date Time: 240308-163604
+Game Duration: 00:12
+Total Moves: 10
+Player 1 Already Taken Moves: 0
+Player 2 Already Taken Moves: 1
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 0
+Player 2 Out of Bounds Moves: 0
+Result: gemini-pro X wins!
+Game Progress: 
+X|.|.
+.|.|.
+.|.|.
+
+X|.|.
+O|.|.
+.|.|.
+
+X|.|X
+O|.|.
+.|.|.
+
+X|.|X
+O|O|.
+.|.|.
+
+X|.|X
+O|O|X
+.|.|.
+
+X|.|X
+O|O|X
+O|.|.
+
+X|.|X
+O|O|X
+O|X|.
+
+X|O|X
+O|O|X
+O|X|.
+
+X|O|X
+O|O|X
+O|X|X
+

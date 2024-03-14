@@ -1,0 +1,27 @@
+Game #1022
+Prompt Type: illustration
+Player 1: gpt-4
+Player 2: anthropic.claude-v2:1
+Date Time: 240308-081951
+Game Duration: 00:39
+Total Moves: 21
+Player 1 Already Taken Moves: 0
+Player 2 Already Taken Moves: 4
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 0
+Player 2 Out of Bounds Moves: 14
+Result: Cancelled
+Game Progress: 
+.|.|.
+.|X|.
+.|.|.
+
+O|.|.
+.|X|.
+.|.|.
+
+O|.|.
+.|X|.
+.|X|.
+

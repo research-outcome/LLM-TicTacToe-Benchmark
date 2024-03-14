@@ -1,0 +1,19 @@
+Game #903
+Prompt Type: illustration
+Player 1: anthropic.claude-v2:1
+Player 2: anthropic.claude-v2:1
+Date Time: 240307-231729
+Game Duration: 00:40
+Total Moves: 21
+Player 1 Already Taken Moves: 0
+Player 2 Already Taken Moves: 0
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 0
+Player 2 Out of Bounds Moves: 20
+Result: Cancelled
+Game Progress: 
+X|.|.
+.|.|.
+.|.|.
+

@@ -1,0 +1,2 @@
+GameTime,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Player1OutOfBounds, Player2OutOfBounds 
+240308-182820,illustration,gemini-pro,mistral-large-latest,gemini-pro X wins!,00:17,7,0,0,0,0,0,0

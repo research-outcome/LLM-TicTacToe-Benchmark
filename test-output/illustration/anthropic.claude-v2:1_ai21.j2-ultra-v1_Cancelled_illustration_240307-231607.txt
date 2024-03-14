@@ -1,0 +1,23 @@
+Game #901
+Prompt Type: illustration
+Player 1: anthropic.claude-v2:1
+Player 2: ai21.j2-ultra-v1
+Date Time: 240307-231607
+Game Duration: 00:32
+Total Moves: 21
+Player 1 Already Taken Moves: 0
+Player 2 Already Taken Moves: 1
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 17
+Player 2 Out of Bounds Moves: 1
+Result: Cancelled
+Game Progress: 
+X|.|.
+.|.|.
+.|.|.
+
+X|.|O
+.|.|.
+.|.|.
+

@@ -1,0 +1,43 @@
+Game #1426
+Prompt Type: illustration
+Player 1: gpt-3.5-turbo
+Player 2: gemini-pro
+Date Time: 240308-190344
+Game Duration: 00:24
+Total Moves: 15
+Player 1 Already Taken Moves: 5
+Player 2 Already Taken Moves: 3
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 0
+Player 2 Out of Bounds Moves: 0
+Result: gpt-3.5-turbo X wins!
+Game Progress: 
+.|.|.
+.|X|.
+.|.|.
+
+O|.|.
+.|X|.
+.|.|.
+
+O|.|.
+.|X|.
+X|.|.
+
+O|O|.
+.|X|.
+X|.|.
+
+O|O|.
+.|X|.
+X|X|.
+
+O|O|.
+O|X|.
+X|X|.
+
+O|O|.
+O|X|.
+X|X|X
+

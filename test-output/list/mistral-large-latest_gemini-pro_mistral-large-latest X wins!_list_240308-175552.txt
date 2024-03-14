@@ -1,0 +1,51 @@
+Game #1311
+Prompt Type: list
+Player 1: mistral-large-latest
+Player 2: gemini-pro
+Date Time: 240308-175552
+Game Duration: 00:31
+Total Moves: 9
+Player 1 Already Taken Moves: 0
+Player 2 Already Taken Moves: 0
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 0
+Player 2 Out of Bounds Moves: 0
+Result: mistral-large-latest X wins!
+Game Progress: 
+X|.|.
+.|.|.
+.|.|.
+
+X|.|.
+.|.|.
+O|.|.
+
+X|.|.
+X|.|.
+O|.|.
+
+X|O|.
+X|.|.
+O|.|.
+
+X|O|.
+X|.|.
+O|X|.
+
+X|O|.
+X|.|O
+O|X|.
+
+X|O|.
+X|.|O
+O|X|X
+
+X|O|O
+X|.|O
+O|X|X
+
+X|O|O
+X|X|O
+O|X|X
+

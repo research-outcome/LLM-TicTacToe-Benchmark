@@ -1,0 +1,23 @@
+Game #912
+Prompt Type: illustration
+Player 1: anthropic.claude-v2:1
+Player 2: gpt-3.5-turbo
+Date Time: 240307-232258
+Game Duration: 00:43
+Total Moves: 21
+Player 1 Already Taken Moves: 0
+Player 2 Already Taken Moves: 4
+Player 1 Invalid Format Moves: 0
+Player 2 Invalid Format Moves: 0
+Player 1 Out of Bounds Moves: 15
+Player 2 Out of Bounds Moves: 0
+Result: Cancelled
+Game Progress: 
+X|.|.
+.|.|.
+.|.|.
+
+X|.|.
+.|.|.
+O|.|.
+
