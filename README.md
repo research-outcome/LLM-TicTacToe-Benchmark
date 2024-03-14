@@ -77,7 +77,7 @@ Sample JSON file content:
 
 Sample CSV file content:
 
-Ga-me-Time,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Play-er1OutOfBounds, Player2OutOfBounds 
+Game-Time,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Play-er1OutOfBounds, Player2OutOfBounds 
 240308-163604,list,gemini-pro,meta.llama2-70b-chat-v1,gemini-pro X wins!,00:12,10,0,1,0,0,0,0
 
 
