@@ -117,20 +117,35 @@ GameTime,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAl
 
 Sample TXT file content:
 
+
 Prompt Type: list
+
 Player 1: anthropic.claude-v2:1
+
 Player 2: gpt-4
+
 Date Time: 240307-202522
+
 Game Duration: 00:16
+
 Total Moves: 9
+
 Player 1 Already Taken Moves: 0
+
 Player 2 Already Taken Moves: 0
+
 Player 1 Invalid Format Moves: 0
+
 Player 2 Invalid Format Moves: 0
+
 Player 1 Out of Bounds Moves: 0
+
 Player 2 Out of Bounds Moves: 0
+
 Result: Draw
+
 Game Progress: 
+
 
 
 X|.|.
@@ -140,11 +155,13 @@ X|.|.
 .|.|.
 
 
+
 X|O|.
 
 .|.|.
 
 .|.|.
+
 
 
 X|O|.
@@ -152,6 +169,7 @@ X|O|.
 .|X|.
 
 .|.|.
+
 
 
 X|O|.
@@ -159,6 +177,7 @@ X|O|.
 .|X|.
 
 .|.|O
+
 
 
 X|O|X
@@ -166,6 +185,7 @@ X|O|X
 .|X|.
 
 .|.|O
+
 
 
 X|O|X
@@ -175,6 +195,7 @@ X|O|X
 O|.|O
 
 
+
 X|O|X
 
 .|X|.
@@ -182,11 +203,13 @@ X|O|X
 O|X|O
 
 
+
 X|O|X
 
 .|X|O
 
 O|X|O
+
 
 
 X|O|X
