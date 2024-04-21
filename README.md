@@ -21,18 +21,31 @@ Sample JSON file content:
 
 {
    "datetime":"240308-175045",
+   
    "player1":"gpt-4",
+   
    "player2":"gemini-pro",
+   
    "totalMoves":5,
+   
    "player1MovesAlreadyTaken":0,
+   
    "player2MovesAlreadyTaken":0,
+   
    "player1MovesOutOfBounds":0,
+   
    "player2MovesOutOfBounds":0,
+   
    "player1MovesInvalidFormat":0,
+   
    "player2MovesInvalidFormat":0,
+   
    "result":"gpt-4 X wins!",
+   
    "gameDuration":"00:05",
+   
    "promptType":"list",
+   
    "moves":[
       {
          "no":1,
@@ -44,6 +57,7 @@ Sample JSON file content:
          "currentStatus":"The moves by the first player (marked by X): None \nThe moves by the second player (marked by O): None \n",
          "response":"{'row': 2, 'column': 2}"
       },
+      
       {
          "no":2,
          "player":2,
@@ -54,6 +68,7 @@ Sample JSON file content:
          "currentStatus":"The moves by the first player (marked by X): 2,2 \nThe moves by the second player (marked by O): None \n",
          "response":"{'row': 1, 'column': 1}"
       },
+      
       {
          "no":3,
          "player":1,
@@ -64,6 +79,7 @@ Sample JSON file content:
          "currentStatus":"The moves by the first player (marked by X): 2,2 \nThe moves by the second player (marked by O): 1,1 \n",
          "response":"{'row': 1, 'column': 2}"
       },
+      
       {
          "no":4,
          "player":2,
@@ -74,6 +90,7 @@ Sample JSON file content:
          "currentStatus":"The moves by the first player (marked by X): 1,2; 2,2 \nThe moves by the second player (marked by O): 1,1 \n",
          "response":"{'row': 3, 'column': 1}"
       },
+      
       {
          "no":5,
          "player":1,
@@ -92,6 +109,7 @@ Sample JSON file content:
 Sample CSV file content:
 
 GameTime,PromptType,Player1,Player2,Result,TotalTime,TotalMoves,Player1InvalidAlreadyTaken,Player2InvalidAlreadyTaken,Player1InvalidFormat, Player2InvalidFormat, Play-er1OutOfBounds, Player2OutOfBounds 
+
 240308-163604,list,gemini-pro,meta.llama2-70b-chat-v1,gemini-pro X wins!,00:12,10,0,1,0,0,0,0
 
 
@@ -112,6 +130,8 @@ Player 1 Out of Bounds Moves: 0
 Player 2 Out of Bounds Moves: 0
 Result: Draw
 Game Progress: 
+
+
 X|.|.
 .|.|.
 .|.|.
