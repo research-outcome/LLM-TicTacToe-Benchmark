@@ -47,6 +47,7 @@ Sample JSON file content:
    "promptType":"list",
    
    "moves":[
+   
       {
          "no":1,
          "player":1,
