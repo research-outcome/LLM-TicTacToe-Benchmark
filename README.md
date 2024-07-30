@@ -5,6 +5,9 @@ This repository has the output data of the following study. If you use the outpu
 By utilizing an Android mobile app coupled with web services, we facilitated Tic-Tac-Toe game playing among leading LLMs, including Jurassic-2 Ultra by AI21, Claude 2.1 by Anthropic, Gemini-Pro by Google, GPT-3.5-Turbo and GPT-4 by OpenAI, Llama2-70B by Meta, and Mistral Large by Mistral. Using a consistent prompt structure in 10 sessions for each LLM pair, we systematically collected data on wins, draws, and invalid moves across 980 games, employing two distinct prompt types (list and illustration) to vary the presentation of the game’s status. Our findings reveal significant performance variations among the LLMs. Notably, GPT-4, GPT-3.5-Turbo, and Llama2 secured the most wins with the list prompt, while GPT-4, Gemini-Pro, and Mistral Large excelled using the illustration prompt. GPT-4 emerged as the top performer, achieving victory with the minimum number of moves and the fewest errors for both prompt types. This research introduces a novel methodology for assessing LLM capabilities using a game that can illuminate their strategic thinking abilities.
 
 
+We have expanded this study with additional games, more in-depth analysis, and a user-friendly web-based game simulation software to evaluate more recent LLMs. More information about the continuation of this study here: <a target="_blank" href="https://github.com/research-outcome/LLM-Game-Benchmark">https://github.com/research-outcome/LLM-Game-Benchmark</a>
+
+
 ![TicTacToe-GeminiPro-GPT4](https://github.com/research-outcome/LLM-TicTacToe-Benchmark/assets/136174718/be4c9543-802f-4ea4-9f3c-e639173d4d7a)
 
 
